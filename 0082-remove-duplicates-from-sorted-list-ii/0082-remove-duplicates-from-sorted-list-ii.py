@@ -6,32 +6,18 @@
 class Solution(object):
     def deleteDuplicates(self, head):
 
-        dict1 = {}
-        temp = head   
+        dummy =ListNode(-1)
+        dummy.next=head
+        prev=dummy
+        cur=head
 
-        # count frequency
-        while temp:
-            if temp.val not in dict1:
-                dict1[temp.val] = 1
+        while cur and cur.next:
+            if cur.val == cur.next.val:
+                while cur.next and cur.val == cur.next.val:
+                    cur=cur.next
+                prev.next = cur.next
             else:
-                dict1[temp.val] += 1
-            temp = temp.next
-
-        stack = []
-        temp = head   
-
-        # collect values with count == 1
-        while temp:
-            if dict1[temp.val] == 1:
-                stack.append(temp.val)
-            temp = temp.next
-
-        # build linked list
-        dummy = ListNode(0)
-        current = dummy
-
-        for item in stack:
-            current.next = ListNode(item)
-            current = current.next
+                prev=prev.next
+            cur=cur.next
 
         return dummy.next
