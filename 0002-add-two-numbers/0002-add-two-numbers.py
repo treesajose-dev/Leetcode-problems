@@ -11,35 +11,19 @@ class Solution(object):
         :rtype: Optional[ListNode]
         """
 
-        lis1=[]
-        lis2=[]
-
-        while l1:
-            lis1.append(l1.val)
-            l1=l1.next
-
-        lis1.reverse()
-        num1=int("".join(map(str,lis1)))
-        print(num1)
-
-        while l2:
-            lis2.append(l2.val)
-            l2=l2.next
-
-        lis2.reverse()
-        num2=int("".join(map(str,lis2)))
-        print(num2)
-
-        num3=num1+num2
-        digits = list(map(int, str(num3)))
-        digits.reverse()
-
-        #Convert reversed digits list back to Linked List
         dummy=ListNode(0)
         temp=dummy
 
-        for item in digits:
-            temp.next=ListNode(item)
-            temp=temp.next
+        carry=0
 
+        while l1 or l2 or carry:
+            if l1:
+                carry=carry+l1.val
+                l1=l1.next
+            if l2:
+                carry=carry+l2.val
+                l2=l2.next
+            temp.next=ListNode(carry%10)
+            temp=temp.next
+            carry//=10
         return dummy.next
