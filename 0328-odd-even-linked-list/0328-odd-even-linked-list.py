@@ -13,15 +13,15 @@ class Solution(object):
         if not head or not head.next:
             return head
 
-        odd=head
-        even=head.next
-        even_head=even       
+        odd=head #start of odd list
+        even=head.next #start of  even list 
+        even_head=head.next    
 
         while even and even.next:
-            odd.next=even.next
-            odd=odd.next
+            odd.next=odd.next.next
+            even.next=even.next.next
     
-            even.next=odd.next
+            odd=odd.next
             even=even.next
         
         odd.next=even_head
