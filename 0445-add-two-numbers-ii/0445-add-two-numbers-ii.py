@@ -10,33 +10,34 @@ class Solution(object):
         :type l2: Optional[ListNode]
         :rtype: Optional[ListNode]
         """
-
-        lis1=[]
-        lis2=[]
+        st1=[]
+        st2=[]
 
         while l1:
-            lis1.append(l1.val)
+            st1.append(l1.val)
             l1=l1.next
 
-        num1=int("".join(map(str,lis1)))
-        print(num1)
-
         while l2:
-            lis2.append(l2.val)
+            st2.append(l2.val)
             l2=l2.next
+        
+        print(st1)
+        print(st2)
 
-        num2=int("".join(map(str,lis2)))
-        print(num2)
+        head=None
 
-        num3=num1+num2
-        digits = list(map(int, str(num3)))
+        carry=0
 
-        #Convert reversed digits list back to Linked List
-        dummy=ListNode(0)
-        temp=dummy
+        while st1 or st2 or carry:
+            if st1:
+                carry=carry+st1.pop()
+            if st2:
+                carry=carry+st2.pop()
 
-        for item in digits:
-            temp.next=ListNode(item)
-            temp=temp.next
+            node=ListNode(carry%10)
+            node.next=head
+            head=node
 
-        return dummy.next
+            carry//=10
+
+        return head
