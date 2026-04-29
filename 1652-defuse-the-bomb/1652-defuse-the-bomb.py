@@ -5,23 +5,25 @@ class Solution(object):
         :type k: int
         :rtype: List[int]
         """
-        
+        #wsum - window sum problem
+
         n = len(code)
-        res = [0] * n
+        ans = [0] * n
 
         if k == 0:
-            return res
+            return ans
 
-        for i in range(n):
-            total = 0
-            
-            if k > 0:
-                for j in range(1, k+1):
-                    total += code[(i + j) % n]
-            else:
-                for j in range(1, abs(k)+1):
-                    total += code[(i - j) % n]
-            
-            res[i] = total
+        if k>0:
+            ans[0]=wsum=sum(code[1:k+1])
+            for l in range(1,n):
+                r=(l+k)%n
+                wsum+=-code[l]+code[r]
+                ans[l]=wsum
+            return ans
 
-        return res
+        ans[0]=wsum=sum(code[-1:k-1:-1])
+        for l in range(1,n):
+            r=(l-k)%n
+            wsum+=-code[-l]+code[-r]
+            ans[-l]=wsum
+        return ans
