@@ -80,6 +80,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2073-time-needed-to-buy-tickets](https://github.com/treesajose-dev/Leetcode-problems/tree/master/2073-time-needed-to-buy-tickets) |
 | [2079-watering-plants](https://github.com/treesajose-dev/Leetcode-problems/tree/master/2079-watering-plants) |
 | [2105-watering-plants-ii](https://github.com/treesajose-dev/Leetcode-problems/tree/master/2105-watering-plants-ii) |
+| [2181-merge-nodes-in-between-zeros](https://github.com/treesajose-dev/Leetcode-problems/tree/master/2181-merge-nodes-in-between-zeros) |
 | [2696-minimum-string-length-after-removing-substrings](https://github.com/treesajose-dev/Leetcode-problems/tree/master/2696-minimum-string-length-after-removing-substrings) |
 | [3174-clear-digits](https://github.com/treesajose-dev/Leetcode-problems/tree/master/3174-clear-digits) |
 ## Number Theory
@@ -179,6 +180,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0328-odd-even-linked-list](https://github.com/treesajose-dev/Leetcode-problems/tree/master/0328-odd-even-linked-list) |
 | [0445-add-two-numbers-ii](https://github.com/treesajose-dev/Leetcode-problems/tree/master/0445-add-two-numbers-ii) |
 | [0876-middle-of-the-linked-list](https://github.com/treesajose-dev/Leetcode-problems/tree/master/0876-middle-of-the-linked-list) |
+| [2181-merge-nodes-in-between-zeros](https://github.com/treesajose-dev/Leetcode-problems/tree/master/2181-merge-nodes-in-between-zeros) |
 ## Divide and Conquer
 |  |
 | ------- |
