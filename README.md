@@ -40,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0002-add-two-numbers](https://github.com/treesajose-dev/Leetcode-problems/tree/master/0002-add-two-numbers) |
 | [0007-reverse-integer](https://github.com/treesajose-dev/Leetcode-problems/tree/master/0007-reverse-integer) |
 | [0227-basic-calculator-ii](https://github.com/treesajose-dev/Leetcode-problems/tree/master/0227-basic-calculator-ii) |
+| [0231-power-of-two](https://github.com/treesajose-dev/Leetcode-problems/tree/master/0231-power-of-two) |
 | [0258-add-digits](https://github.com/treesajose-dev/Leetcode-problems/tree/master/0258-add-digits) |
 | [0268-missing-number](https://github.com/treesajose-dev/Leetcode-problems/tree/master/0268-missing-number) |
 | [0412-fizz-buzz](https://github.com/treesajose-dev/Leetcode-problems/tree/master/0412-fizz-buzz) |
@@ -56,6 +57,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0002-add-two-numbers](https://github.com/treesajose-dev/Leetcode-problems/tree/master/0002-add-two-numbers) |
 | [0021-merge-two-sorted-lists](https://github.com/treesajose-dev/Leetcode-problems/tree/master/0021-merge-two-sorted-lists) |
 | [0206-reverse-linked-list](https://github.com/treesajose-dev/Leetcode-problems/tree/master/0206-reverse-linked-list) |
+| [0231-power-of-two](https://github.com/treesajose-dev/Leetcode-problems/tree/master/0231-power-of-two) |
 | [0234-palindrome-linked-list](https://github.com/treesajose-dev/Leetcode-problems/tree/master/0234-palindrome-linked-list) |
 | [0509-fibonacci-number](https://github.com/treesajose-dev/Leetcode-problems/tree/master/0509-fibonacci-number) |
 ## Memoization
@@ -104,6 +106,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0136-single-number](https://github.com/treesajose-dev/Leetcode-problems/tree/master/0136-single-number) |
 | [0191-number-of-1-bits](https://github.com/treesajose-dev/Leetcode-problems/tree/master/0191-number-of-1-bits) |
+| [0231-power-of-two](https://github.com/treesajose-dev/Leetcode-problems/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/treesajose-dev/Leetcode-problems/tree/master/0268-missing-number) |
 | [2351-first-letter-to-appear-twice](https://github.com/treesajose-dev/Leetcode-problems/tree/master/2351-first-letter-to-appear-twice) |
 ## Sorting
