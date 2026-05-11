@@ -79,6 +79,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0345-reverse-vowels-of-a-string](https://github.com/treesajose-dev/Leetcode-problems/tree/master/0345-reverse-vowels-of-a-string) |
 | [0387-first-unique-character-in-a-string](https://github.com/treesajose-dev/Leetcode-problems/tree/master/0387-first-unique-character-in-a-string) |
 | [0412-fizz-buzz](https://github.com/treesajose-dev/Leetcode-problems/tree/master/0412-fizz-buzz) |
+| [1003-check-if-word-is-valid-after-substitutions](https://github.com/treesajose-dev/Leetcode-problems/tree/master/1003-check-if-word-is-valid-after-substitutions) |
 | [1544-make-the-string-great](https://github.com/treesajose-dev/Leetcode-problems/tree/master/1544-make-the-string-great) |
 | [2351-first-letter-to-appear-twice](https://github.com/treesajose-dev/Leetcode-problems/tree/master/2351-first-letter-to-appear-twice) |
 | [2696-minimum-string-length-after-removing-substrings](https://github.com/treesajose-dev/Leetcode-problems/tree/master/2696-minimum-string-length-after-removing-substrings) |
@@ -163,6 +164,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0232-implement-queue-using-stacks](https://github.com/treesajose-dev/Leetcode-problems/tree/master/0232-implement-queue-using-stacks) |
 | [0234-palindrome-linked-list](https://github.com/treesajose-dev/Leetcode-problems/tree/master/0234-palindrome-linked-list) |
 | [0445-add-two-numbers-ii](https://github.com/treesajose-dev/Leetcode-problems/tree/master/0445-add-two-numbers-ii) |
+| [1003-check-if-word-is-valid-after-substitutions](https://github.com/treesajose-dev/Leetcode-problems/tree/master/1003-check-if-word-is-valid-after-substitutions) |
 | [1019-next-greater-node-in-linked-list](https://github.com/treesajose-dev/Leetcode-problems/tree/master/1019-next-greater-node-in-linked-list) |
 | [1544-make-the-string-great](https://github.com/treesajose-dev/Leetcode-problems/tree/master/1544-make-the-string-great) |
 | [2696-minimum-string-length-after-removing-substrings](https://github.com/treesajose-dev/Leetcode-problems/tree/master/2696-minimum-string-length-after-removing-substrings) |
