@@ -4,15 +4,14 @@ class Solution(object):
         :type s: str
         :rtype: bool
         """
-        st=[]
+        stack=[]
 
-        for x in s:
-            st.append(x)
-            
-            if st[-3:]==['a','b','c']:
-                st.pop()
-                st.pop()
-                st.pop()
+        for ch in s:
+            if ch == 'c':
+                if len(stack)<2 or stack.pop()!='b' or stack.pop()!='a':
+                    return False
+            else:
+                stack.append(ch)
 
-        return len(st)==0
+        return not stack
         
