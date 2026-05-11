@@ -186,6 +186,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0232-implement-queue-using-stacks](https://github.com/treesajose-dev/Leetcode-problems/tree/master/0232-implement-queue-using-stacks) |
 | [0387-first-unique-character-in-a-string](https://github.com/treesajose-dev/Leetcode-problems/tree/master/0387-first-unique-character-in-a-string) |
+| [0933-number-of-recent-calls](https://github.com/treesajose-dev/Leetcode-problems/tree/master/0933-number-of-recent-calls) |
 | [2073-time-needed-to-buy-tickets](https://github.com/treesajose-dev/Leetcode-problems/tree/master/2073-time-needed-to-buy-tickets) |
 ## Counting
 |  |
@@ -197,6 +198,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0155-min-stack](https://github.com/treesajose-dev/Leetcode-problems/tree/master/0155-min-stack) |
 | [0232-implement-queue-using-stacks](https://github.com/treesajose-dev/Leetcode-problems/tree/master/0232-implement-queue-using-stacks) |
+| [0933-number-of-recent-calls](https://github.com/treesajose-dev/Leetcode-problems/tree/master/0933-number-of-recent-calls) |
 ## Linked List
 |  |
 | ------- |
@@ -252,4 +254,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0316-remove-duplicate-letters](https://github.com/treesajose-dev/Leetcode-problems/tree/master/0316-remove-duplicate-letters) |
 | [1019-next-greater-node-in-linked-list](https://github.com/treesajose-dev/Leetcode-problems/tree/master/1019-next-greater-node-in-linked-list) |
+## Data Stream
+|  |
+| ------- |
+| [0933-number-of-recent-calls](https://github.com/treesajose-dev/Leetcode-problems/tree/master/0933-number-of-recent-calls) |
 <!---LeetCode Topics End-->
