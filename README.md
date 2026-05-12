@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0026-remove-duplicates-from-sorted-array](https://github.com/treesajose-dev/Leetcode-problems/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/treesajose-dev/Leetcode-problems/tree/master/0027-remove-element) |
 | [0035-search-insert-position](https://github.com/treesajose-dev/Leetcode-problems/tree/master/0035-search-insert-position) |
+| [0066-plus-one](https://github.com/treesajose-dev/Leetcode-problems/tree/master/0066-plus-one) |
 | [0088-merge-sorted-array](https://github.com/treesajose-dev/Leetcode-problems/tree/master/0088-merge-sorted-array) |
 | [0136-single-number](https://github.com/treesajose-dev/Leetcode-problems/tree/master/0136-single-number) |
 | [0137-single-number-ii](https://github.com/treesajose-dev/Leetcode-problems/tree/master/0137-single-number-ii) |
@@ -43,6 +44,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0002-add-two-numbers](https://github.com/treesajose-dev/Leetcode-problems/tree/master/0002-add-two-numbers) |
 | [0007-reverse-integer](https://github.com/treesajose-dev/Leetcode-problems/tree/master/0007-reverse-integer) |
+| [0066-plus-one](https://github.com/treesajose-dev/Leetcode-problems/tree/master/0066-plus-one) |
 | [0227-basic-calculator-ii](https://github.com/treesajose-dev/Leetcode-problems/tree/master/0227-basic-calculator-ii) |
 | [0231-power-of-two](https://github.com/treesajose-dev/Leetcode-problems/tree/master/0231-power-of-two) |
 | [0258-add-digits](https://github.com/treesajose-dev/Leetcode-problems/tree/master/0258-add-digits) |
