@@ -32,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/treesajose-dev/Leetcode-problems/tree/master/0001-two-sum) |
 | [0141-linked-list-cycle](https://github.com/treesajose-dev/Leetcode-problems/tree/master/0141-linked-list-cycle) |
+| [0202-happy-number](https://github.com/treesajose-dev/Leetcode-problems/tree/master/0202-happy-number) |
 | [0217-contains-duplicate](https://github.com/treesajose-dev/Leetcode-problems/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/treesajose-dev/Leetcode-problems/tree/master/0219-contains-duplicate-ii) |
 | [0268-missing-number](https://github.com/treesajose-dev/Leetcode-problems/tree/master/0268-missing-number) |
@@ -46,6 +47,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0007-reverse-integer](https://github.com/treesajose-dev/Leetcode-problems/tree/master/0007-reverse-integer) |
 | [0066-plus-one](https://github.com/treesajose-dev/Leetcode-problems/tree/master/0066-plus-one) |
 | [0069-sqrtx](https://github.com/treesajose-dev/Leetcode-problems/tree/master/0069-sqrtx) |
+| [0202-happy-number](https://github.com/treesajose-dev/Leetcode-problems/tree/master/0202-happy-number) |
 | [0227-basic-calculator-ii](https://github.com/treesajose-dev/Leetcode-problems/tree/master/0227-basic-calculator-ii) |
 | [0231-power-of-two](https://github.com/treesajose-dev/Leetcode-problems/tree/master/0231-power-of-two) |
 | [0258-add-digits](https://github.com/treesajose-dev/Leetcode-problems/tree/master/0258-add-digits) |
@@ -151,6 +153,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0125-valid-palindrome](https://github.com/treesajose-dev/Leetcode-problems/tree/master/0125-valid-palindrome) |
 | [0141-linked-list-cycle](https://github.com/treesajose-dev/Leetcode-problems/tree/master/0141-linked-list-cycle) |
 | [0148-sort-list](https://github.com/treesajose-dev/Leetcode-problems/tree/master/0148-sort-list) |
+| [0202-happy-number](https://github.com/treesajose-dev/Leetcode-problems/tree/master/0202-happy-number) |
 | [0234-palindrome-linked-list](https://github.com/treesajose-dev/Leetcode-problems/tree/master/0234-palindrome-linked-list) |
 | [0283-move-zeroes](https://github.com/treesajose-dev/Leetcode-problems/tree/master/0283-move-zeroes) |
 | [0344-reverse-string](https://github.com/treesajose-dev/Leetcode-problems/tree/master/0344-reverse-string) |
