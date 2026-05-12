@@ -9,18 +9,17 @@ class Solution(object):
         :type head: Optional[ListNode]
         :rtype: Optional[ListNode]
         """
-        lis=[]
+        prev = None
+        curr = head
 
-        while head:
-            lis.append(head.val)
-            head=head.next
+        while curr:
 
-        lis.reverse()
+            nxt = curr.next
 
-        dummy=ListNode(0)
-        temp=dummy
+            curr.next = prev
 
-        for item in lis:
-            temp.next=ListNode(item)
-            temp=temp.next
-        return dummy.next
+            prev = curr
+            curr = nxt
+
+        return prev
+        
