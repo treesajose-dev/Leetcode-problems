@@ -20,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0219-contains-duplicate-ii](https://github.com/treesajose-dev/Leetcode-problems/tree/master/0219-contains-duplicate-ii) |
 | [0268-missing-number](https://github.com/treesajose-dev/Leetcode-problems/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/treesajose-dev/Leetcode-problems/tree/master/0283-move-zeroes) |
+| [0322-coin-change](https://github.com/treesajose-dev/Leetcode-problems/tree/master/0322-coin-change) |
 | [0349-intersection-of-two-arrays](https://github.com/treesajose-dev/Leetcode-problems/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/treesajose-dev/Leetcode-problems/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0746-min-cost-climbing-stairs](https://github.com/treesajose-dev/Leetcode-problems/tree/master/0746-min-cost-climbing-stairs) |
@@ -71,6 +72,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0070-climbing-stairs](https://github.com/treesajose-dev/Leetcode-problems/tree/master/0070-climbing-stairs) |
 | [0118-pascals-triangle](https://github.com/treesajose-dev/Leetcode-problems/tree/master/0118-pascals-triangle) |
+| [0322-coin-change](https://github.com/treesajose-dev/Leetcode-problems/tree/master/0322-coin-change) |
 | [0338-counting-bits](https://github.com/treesajose-dev/Leetcode-problems/tree/master/0338-counting-bits) |
 | [0509-fibonacci-number](https://github.com/treesajose-dev/Leetcode-problems/tree/master/0509-fibonacci-number) |
 | [0746-min-cost-climbing-stairs](https://github.com/treesajose-dev/Leetcode-problems/tree/master/0746-min-cost-climbing-stairs) |
@@ -292,4 +294,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1046-last-stone-weight](https://github.com/treesajose-dev/Leetcode-problems/tree/master/1046-last-stone-weight) |
+## Breadth-First Search
+|  |
+| ------- |
+| [0322-coin-change](https://github.com/treesajose-dev/Leetcode-problems/tree/master/0322-coin-change) |
 <!---LeetCode Topics End-->
