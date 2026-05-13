@@ -62,11 +62,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0445-add-two-numbers-ii](https://github.com/treesajose-dev/Leetcode-problems/tree/master/0445-add-two-numbers-ii) |
 | [0509-fibonacci-number](https://github.com/treesajose-dev/Leetcode-problems/tree/master/0509-fibonacci-number) |
 | [0728-self-dividing-numbers](https://github.com/treesajose-dev/Leetcode-problems/tree/master/0728-self-dividing-numbers) |
+| [1137-n-th-tribonacci-number](https://github.com/treesajose-dev/Leetcode-problems/tree/master/1137-n-th-tribonacci-number) |
 ## Dynamic Programming
 |  |
 | ------- |
 | [0070-climbing-stairs](https://github.com/treesajose-dev/Leetcode-problems/tree/master/0070-climbing-stairs) |
 | [0509-fibonacci-number](https://github.com/treesajose-dev/Leetcode-problems/tree/master/0509-fibonacci-number) |
+| [1137-n-th-tribonacci-number](https://github.com/treesajose-dev/Leetcode-problems/tree/master/1137-n-th-tribonacci-number) |
 ## Recursion
 |  |
 | ------- |
@@ -82,6 +84,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0070-climbing-stairs](https://github.com/treesajose-dev/Leetcode-problems/tree/master/0070-climbing-stairs) |
 | [0509-fibonacci-number](https://github.com/treesajose-dev/Leetcode-problems/tree/master/0509-fibonacci-number) |
+| [1137-n-th-tribonacci-number](https://github.com/treesajose-dev/Leetcode-problems/tree/master/1137-n-th-tribonacci-number) |
 ## String
 |  |
 | ------- |
