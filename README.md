@@ -21,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0283-move-zeroes](https://github.com/treesajose-dev/Leetcode-problems/tree/master/0283-move-zeroes) |
 | [0349-intersection-of-two-arrays](https://github.com/treesajose-dev/Leetcode-problems/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/treesajose-dev/Leetcode-problems/tree/master/0350-intersection-of-two-arrays-ii) |
+| [0746-min-cost-climbing-stairs](https://github.com/treesajose-dev/Leetcode-problems/tree/master/0746-min-cost-climbing-stairs) |
 | [1019-next-greater-node-in-linked-list](https://github.com/treesajose-dev/Leetcode-problems/tree/master/1019-next-greater-node-in-linked-list) |
 | [1046-last-stone-weight](https://github.com/treesajose-dev/Leetcode-problems/tree/master/1046-last-stone-weight) |
 | [1470-shuffle-the-array](https://github.com/treesajose-dev/Leetcode-problems/tree/master/1470-shuffle-the-array) |
@@ -68,6 +69,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0070-climbing-stairs](https://github.com/treesajose-dev/Leetcode-problems/tree/master/0070-climbing-stairs) |
 | [0509-fibonacci-number](https://github.com/treesajose-dev/Leetcode-problems/tree/master/0509-fibonacci-number) |
+| [0746-min-cost-climbing-stairs](https://github.com/treesajose-dev/Leetcode-problems/tree/master/0746-min-cost-climbing-stairs) |
 | [1137-n-th-tribonacci-number](https://github.com/treesajose-dev/Leetcode-problems/tree/master/1137-n-th-tribonacci-number) |
 ## Recursion
 |  |
