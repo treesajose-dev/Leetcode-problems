@@ -52,6 +52,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0349-intersection-of-two-arrays](https://github.com/treesajose-dev/Leetcode-problems/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/treesajose-dev/Leetcode-problems/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0387-first-unique-character-in-a-string](https://github.com/treesajose-dev/Leetcode-problems/tree/master/0387-first-unique-character-in-a-string) |
+| [0389-find-the-difference](https://github.com/treesajose-dev/Leetcode-problems/tree/master/0389-find-the-difference) |
 | [2351-first-letter-to-appear-twice](https://github.com/treesajose-dev/Leetcode-problems/tree/master/2351-first-letter-to-appear-twice) |
 ## Math
 |  |
@@ -115,6 +116,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0344-reverse-string](https://github.com/treesajose-dev/Leetcode-problems/tree/master/0344-reverse-string) |
 | [0345-reverse-vowels-of-a-string](https://github.com/treesajose-dev/Leetcode-problems/tree/master/0345-reverse-vowels-of-a-string) |
 | [0387-first-unique-character-in-a-string](https://github.com/treesajose-dev/Leetcode-problems/tree/master/0387-first-unique-character-in-a-string) |
+| [0389-find-the-difference](https://github.com/treesajose-dev/Leetcode-problems/tree/master/0389-find-the-difference) |
 | [0412-fizz-buzz](https://github.com/treesajose-dev/Leetcode-problems/tree/master/0412-fizz-buzz) |
 | [1003-check-if-word-is-valid-after-substitutions](https://github.com/treesajose-dev/Leetcode-problems/tree/master/1003-check-if-word-is-valid-after-substitutions) |
 | [1021-remove-outermost-parentheses](https://github.com/treesajose-dev/Leetcode-problems/tree/master/1021-remove-outermost-parentheses) |
@@ -156,6 +158,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/treesajose-dev/Leetcode-problems/tree/master/0268-missing-number) |
 | [0338-counting-bits](https://github.com/treesajose-dev/Leetcode-problems/tree/master/0338-counting-bits) |
 | [0342-power-of-four](https://github.com/treesajose-dev/Leetcode-problems/tree/master/0342-power-of-four) |
+| [0389-find-the-difference](https://github.com/treesajose-dev/Leetcode-problems/tree/master/0389-find-the-difference) |
 | [2351-first-letter-to-appear-twice](https://github.com/treesajose-dev/Leetcode-problems/tree/master/2351-first-letter-to-appear-twice) |
 | [2859-sum-of-values-at-indices-with-k-set-bits](https://github.com/treesajose-dev/Leetcode-problems/tree/master/2859-sum-of-values-at-indices-with-k-set-bits) |
 ## Sorting
@@ -170,6 +173,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/treesajose-dev/Leetcode-problems/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/treesajose-dev/Leetcode-problems/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/treesajose-dev/Leetcode-problems/tree/master/0350-intersection-of-two-arrays-ii) |
+| [0389-find-the-difference](https://github.com/treesajose-dev/Leetcode-problems/tree/master/0389-find-the-difference) |
 | [0414-third-maximum-number](https://github.com/treesajose-dev/Leetcode-problems/tree/master/0414-third-maximum-number) |
 | [1984-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/treesajose-dev/Leetcode-problems/tree/master/1984-minimum-difference-between-highest-and-lowest-of-k-scores) |
 ## Two Pointers
