@@ -5,34 +5,19 @@ class Solution(object):
         :type trust: List[List[int]]
         :rtype: int
         """
-        s = set()
-        not_judge = set()
+        IN = [0] * (n + 1)  #vote count
+        OUT = [0] * (n + 1) # indexes who are not judges
+
+        for a, b in trust:
+
+            OUT[a] += 1
+            IN[b] += 1
 
         for i in range(1, n + 1):
-            s.add(i)
 
-        trusted_count = {}
-
-        for i in range(1, n + 1):
-            trusted_count[i] = 0
-
-        for item in trust:
-
-            a = item[0]
-            b = item[1]
-
-            not_judge.add(a)
-
-            trusted_count[b] += 1
-
-        possible = s.difference(not_judge)
-
-        for person in possible:
-
-            if trusted_count[person] == n - 1:
-                return person
+            if IN[i] == n - 1 and OUT[i] == 0:
+                return i
 
         return -1
-                
 
         
