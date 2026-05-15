@@ -5,10 +5,16 @@ class Solution(object):
         :rtype: int
         """
 
-        a, b = edges[0]
-        c, d = edges[1]
+        n = len(edges) + 1
 
-        if a == c or a == d:
-            return a
+        degree = [0] * (n + 1)
 
-        return b
+        for u, v in edges:
+
+            degree[u] += 1
+            degree[v] += 1
+
+        for i in range(1, n + 1):
+
+            if degree[i] == n - 1:
+                return i
