@@ -151,6 +151,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0035-search-insert-position](https://github.com/treesajose-dev/Leetcode-problems/tree/master/0035-search-insert-position) |
 | [0069-sqrtx](https://github.com/treesajose-dev/Leetcode-problems/tree/master/0069-sqrtx) |
 | [0268-missing-number](https://github.com/treesajose-dev/Leetcode-problems/tree/master/0268-missing-number) |
+| [0278-first-bad-version](https://github.com/treesajose-dev/Leetcode-problems/tree/master/0278-first-bad-version) |
 | [0349-intersection-of-two-arrays](https://github.com/treesajose-dev/Leetcode-problems/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/treesajose-dev/Leetcode-problems/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0704-binary-search](https://github.com/treesajose-dev/Leetcode-problems/tree/master/0704-binary-search) |
@@ -336,4 +337,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1971-find-if-path-exists-in-graph](https://github.com/treesajose-dev/Leetcode-problems/tree/master/1971-find-if-path-exists-in-graph) |
+## Interactive
+|  |
+| ------- |
+| [0278-first-bad-version](https://github.com/treesajose-dev/Leetcode-problems/tree/master/0278-first-bad-version) |
 <!---LeetCode Topics End-->
