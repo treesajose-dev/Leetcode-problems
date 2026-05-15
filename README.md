@@ -29,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0414-third-maximum-number](https://github.com/treesajose-dev/Leetcode-problems/tree/master/0414-third-maximum-number) |
 | [0628-maximum-product-of-three-numbers](https://github.com/treesajose-dev/Leetcode-problems/tree/master/0628-maximum-product-of-three-numbers) |
 | [0704-binary-search](https://github.com/treesajose-dev/Leetcode-problems/tree/master/0704-binary-search) |
+| [0744-find-smallest-letter-greater-than-target](https://github.com/treesajose-dev/Leetcode-problems/tree/master/0744-find-smallest-letter-greater-than-target) |
 | [0746-min-cost-climbing-stairs](https://github.com/treesajose-dev/Leetcode-problems/tree/master/0746-min-cost-climbing-stairs) |
 | [0997-find-the-town-judge](https://github.com/treesajose-dev/Leetcode-problems/tree/master/0997-find-the-town-judge) |
 | [1019-next-greater-node-in-linked-list](https://github.com/treesajose-dev/Leetcode-problems/tree/master/1019-next-greater-node-in-linked-list) |
@@ -155,6 +156,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0349-intersection-of-two-arrays](https://github.com/treesajose-dev/Leetcode-problems/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/treesajose-dev/Leetcode-problems/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0704-binary-search](https://github.com/treesajose-dev/Leetcode-problems/tree/master/0704-binary-search) |
+| [0744-find-smallest-letter-greater-than-target](https://github.com/treesajose-dev/Leetcode-problems/tree/master/0744-find-smallest-letter-greater-than-target) |
 ## Bit Manipulation
 |  |
 | ------- |
