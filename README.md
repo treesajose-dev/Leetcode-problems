@@ -40,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1019-next-greater-node-in-linked-list](https://github.com/treesajose-dev/Leetcode-problems/tree/master/1019-next-greater-node-in-linked-list) |
 | [1046-last-stone-weight](https://github.com/treesajose-dev/Leetcode-problems/tree/master/1046-last-stone-weight) |
 | [1207-unique-number-of-occurrences](https://github.com/treesajose-dev/Leetcode-problems/tree/master/1207-unique-number-of-occurrences) |
+| [1394-find-lucky-integer-in-an-array](https://github.com/treesajose-dev/Leetcode-problems/tree/master/1394-find-lucky-integer-in-an-array) |
 | [1470-shuffle-the-array](https://github.com/treesajose-dev/Leetcode-problems/tree/master/1470-shuffle-the-array) |
 | [1475-final-prices-with-a-special-discount-in-a-shop](https://github.com/treesajose-dev/Leetcode-problems/tree/master/1475-final-prices-with-a-special-discount-in-a-shop) |
 | [1652-defuse-the-bomb](https://github.com/treesajose-dev/Leetcode-problems/tree/master/1652-defuse-the-bomb) |
@@ -71,6 +72,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0771-jewels-and-stones](https://github.com/treesajose-dev/Leetcode-problems/tree/master/0771-jewels-and-stones) |
 | [0997-find-the-town-judge](https://github.com/treesajose-dev/Leetcode-problems/tree/master/0997-find-the-town-judge) |
 | [1207-unique-number-of-occurrences](https://github.com/treesajose-dev/Leetcode-problems/tree/master/1207-unique-number-of-occurrences) |
+| [1394-find-lucky-integer-in-an-array](https://github.com/treesajose-dev/Leetcode-problems/tree/master/1394-find-lucky-integer-in-an-array) |
 | [2351-first-letter-to-appear-twice](https://github.com/treesajose-dev/Leetcode-problems/tree/master/2351-first-letter-to-appear-twice) |
 ## Math
 |  |
@@ -269,6 +271,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0347-top-k-frequent-elements](https://github.com/treesajose-dev/Leetcode-problems/tree/master/0347-top-k-frequent-elements) |
 | [0387-first-unique-character-in-a-string](https://github.com/treesajose-dev/Leetcode-problems/tree/master/0387-first-unique-character-in-a-string) |
+| [1394-find-lucky-integer-in-an-array](https://github.com/treesajose-dev/Leetcode-problems/tree/master/1394-find-lucky-integer-in-an-array) |
 | [2351-first-letter-to-appear-twice](https://github.com/treesajose-dev/Leetcode-problems/tree/master/2351-first-letter-to-appear-twice) |
 | [2529-maximum-count-of-positive-integer-and-negative-integer](https://github.com/treesajose-dev/Leetcode-problems/tree/master/2529-maximum-count-of-positive-integer-and-negative-integer) |
 ## Design
