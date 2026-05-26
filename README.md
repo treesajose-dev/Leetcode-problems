@@ -76,6 +76,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1207-unique-number-of-occurrences](https://github.com/treesajose-dev/Leetcode-problems/tree/master/1207-unique-number-of-occurrences) |
 | [1394-find-lucky-integer-in-an-array](https://github.com/treesajose-dev/Leetcode-problems/tree/master/1394-find-lucky-integer-in-an-array) |
 | [2351-first-letter-to-appear-twice](https://github.com/treesajose-dev/Leetcode-problems/tree/master/2351-first-letter-to-appear-twice) |
+| [3120-count-the-number-of-special-characters-i](https://github.com/treesajose-dev/Leetcode-problems/tree/master/3120-count-the-number-of-special-characters-i) |
 ## Math
 |  |
 | ------- |
@@ -148,6 +149,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1544-make-the-string-great](https://github.com/treesajose-dev/Leetcode-problems/tree/master/1544-make-the-string-great) |
 | [2351-first-letter-to-appear-twice](https://github.com/treesajose-dev/Leetcode-problems/tree/master/2351-first-letter-to-appear-twice) |
 | [2696-minimum-string-length-after-removing-substrings](https://github.com/treesajose-dev/Leetcode-problems/tree/master/2696-minimum-string-length-after-removing-substrings) |
+| [3120-count-the-number-of-special-characters-i](https://github.com/treesajose-dev/Leetcode-problems/tree/master/3120-count-the-number-of-special-characters-i) |
 | [3174-clear-digits](https://github.com/treesajose-dev/Leetcode-problems/tree/master/3174-clear-digits) |
 ## Simulation
 |  |
