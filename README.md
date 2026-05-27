@@ -44,6 +44,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1394-find-lucky-integer-in-an-array](https://github.com/treesajose-dev/Leetcode-problems/tree/master/1394-find-lucky-integer-in-an-array) |
 | [1470-shuffle-the-array](https://github.com/treesajose-dev/Leetcode-problems/tree/master/1470-shuffle-the-array) |
 | [1475-final-prices-with-a-special-discount-in-a-shop](https://github.com/treesajose-dev/Leetcode-problems/tree/master/1475-final-prices-with-a-special-discount-in-a-shop) |
+| [1512-number-of-good-pairs](https://github.com/treesajose-dev/Leetcode-problems/tree/master/1512-number-of-good-pairs) |
 | [1652-defuse-the-bomb](https://github.com/treesajose-dev/Leetcode-problems/tree/master/1652-defuse-the-bomb) |
 | [1984-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/treesajose-dev/Leetcode-problems/tree/master/1984-minimum-difference-between-highest-and-lowest-of-k-scores) |
 | [2073-time-needed-to-buy-tickets](https://github.com/treesajose-dev/Leetcode-problems/tree/master/2073-time-needed-to-buy-tickets) |
@@ -75,6 +76,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0997-find-the-town-judge](https://github.com/treesajose-dev/Leetcode-problems/tree/master/0997-find-the-town-judge) |
 | [1207-unique-number-of-occurrences](https://github.com/treesajose-dev/Leetcode-problems/tree/master/1207-unique-number-of-occurrences) |
 | [1394-find-lucky-integer-in-an-array](https://github.com/treesajose-dev/Leetcode-problems/tree/master/1394-find-lucky-integer-in-an-array) |
+| [1512-number-of-good-pairs](https://github.com/treesajose-dev/Leetcode-problems/tree/master/1512-number-of-good-pairs) |
 | [2351-first-letter-to-appear-twice](https://github.com/treesajose-dev/Leetcode-problems/tree/master/2351-first-letter-to-appear-twice) |
 | [3120-count-the-number-of-special-characters-i](https://github.com/treesajose-dev/Leetcode-problems/tree/master/3120-count-the-number-of-special-characters-i) |
 ## Math
@@ -98,6 +100,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0628-maximum-product-of-three-numbers](https://github.com/treesajose-dev/Leetcode-problems/tree/master/0628-maximum-product-of-three-numbers) |
 | [0728-self-dividing-numbers](https://github.com/treesajose-dev/Leetcode-problems/tree/master/0728-self-dividing-numbers) |
 | [1137-n-th-tribonacci-number](https://github.com/treesajose-dev/Leetcode-problems/tree/master/1137-n-th-tribonacci-number) |
+| [1512-number-of-good-pairs](https://github.com/treesajose-dev/Leetcode-problems/tree/master/1512-number-of-good-pairs) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -278,6 +281,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0387-first-unique-character-in-a-string](https://github.com/treesajose-dev/Leetcode-problems/tree/master/0387-first-unique-character-in-a-string) |
 | [0819-most-common-word](https://github.com/treesajose-dev/Leetcode-problems/tree/master/0819-most-common-word) |
 | [1394-find-lucky-integer-in-an-array](https://github.com/treesajose-dev/Leetcode-problems/tree/master/1394-find-lucky-integer-in-an-array) |
+| [1512-number-of-good-pairs](https://github.com/treesajose-dev/Leetcode-problems/tree/master/1512-number-of-good-pairs) |
 | [2351-first-letter-to-appear-twice](https://github.com/treesajose-dev/Leetcode-problems/tree/master/2351-first-letter-to-appear-twice) |
 | [2529-maximum-count-of-positive-integer-and-negative-integer](https://github.com/treesajose-dev/Leetcode-problems/tree/master/2529-maximum-count-of-positive-integer-and-negative-integer) |
 ## Design
