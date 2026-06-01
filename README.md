@@ -53,6 +53,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2079-watering-plants](https://github.com/treesajose-dev/Leetcode-problems/tree/master/2079-watering-plants) |
 | [2105-watering-plants-ii](https://github.com/treesajose-dev/Leetcode-problems/tree/master/2105-watering-plants-ii) |
 | [2126-destroying-asteroids](https://github.com/treesajose-dev/Leetcode-problems/tree/master/2126-destroying-asteroids) |
+| [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/treesajose-dev/Leetcode-problems/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
 | [2529-maximum-count-of-positive-integer-and-negative-integer](https://github.com/treesajose-dev/Leetcode-problems/tree/master/2529-maximum-count-of-positive-integer-and-negative-integer) |
 | [2553-separate-the-digits-in-an-array](https://github.com/treesajose-dev/Leetcode-problems/tree/master/2553-separate-the-digits-in-an-array) |
 | [2859-sum-of-values-at-indices-with-k-set-bits](https://github.com/treesajose-dev/Leetcode-problems/tree/master/2859-sum-of-values-at-indices-with-k-set-bits) |
@@ -230,6 +231,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0645-set-mismatch](https://github.com/treesajose-dev/Leetcode-problems/tree/master/0645-set-mismatch) |
 | [1984-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/treesajose-dev/Leetcode-problems/tree/master/1984-minimum-difference-between-highest-and-lowest-of-k-scores) |
 | [2126-destroying-asteroids](https://github.com/treesajose-dev/Leetcode-problems/tree/master/2126-destroying-asteroids) |
+| [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/treesajose-dev/Leetcode-problems/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
 ## Two Pointers
 |  |
 | ------- |
@@ -264,6 +266,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0011-container-with-most-water](https://github.com/treesajose-dev/Leetcode-problems/tree/master/0011-container-with-most-water) |
 | [0316-remove-duplicate-letters](https://github.com/treesajose-dev/Leetcode-problems/tree/master/0316-remove-duplicate-letters) |
 | [2126-destroying-asteroids](https://github.com/treesajose-dev/Leetcode-problems/tree/master/2126-destroying-asteroids) |
+| [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/treesajose-dev/Leetcode-problems/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
 ## Stack
 |  |
 | ------- |
