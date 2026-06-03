@@ -39,6 +39,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0746-min-cost-climbing-stairs](https://github.com/treesajose-dev/Leetcode-problems/tree/master/0746-min-cost-climbing-stairs) |
 | [0819-most-common-word](https://github.com/treesajose-dev/Leetcode-problems/tree/master/0819-most-common-word) |
 | [0997-find-the-town-judge](https://github.com/treesajose-dev/Leetcode-problems/tree/master/0997-find-the-town-judge) |
+| [1002-find-common-characters](https://github.com/treesajose-dev/Leetcode-problems/tree/master/1002-find-common-characters) |
 | [1019-next-greater-node-in-linked-list](https://github.com/treesajose-dev/Leetcode-problems/tree/master/1019-next-greater-node-in-linked-list) |
 | [1046-last-stone-weight](https://github.com/treesajose-dev/Leetcode-problems/tree/master/1046-last-stone-weight) |
 | [1207-unique-number-of-occurrences](https://github.com/treesajose-dev/Leetcode-problems/tree/master/1207-unique-number-of-occurrences) |
@@ -80,6 +81,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0771-jewels-and-stones](https://github.com/treesajose-dev/Leetcode-problems/tree/master/0771-jewels-and-stones) |
 | [0819-most-common-word](https://github.com/treesajose-dev/Leetcode-problems/tree/master/0819-most-common-word) |
 | [0997-find-the-town-judge](https://github.com/treesajose-dev/Leetcode-problems/tree/master/0997-find-the-town-judge) |
+| [1002-find-common-characters](https://github.com/treesajose-dev/Leetcode-problems/tree/master/1002-find-common-characters) |
 | [1189-maximum-number-of-balloons](https://github.com/treesajose-dev/Leetcode-problems/tree/master/1189-maximum-number-of-balloons) |
 | [1207-unique-number-of-occurrences](https://github.com/treesajose-dev/Leetcode-problems/tree/master/1207-unique-number-of-occurrences) |
 | [1394-find-lucky-integer-in-an-array](https://github.com/treesajose-dev/Leetcode-problems/tree/master/1394-find-lucky-integer-in-an-array) |
@@ -158,6 +160,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0412-fizz-buzz](https://github.com/treesajose-dev/Leetcode-problems/tree/master/0412-fizz-buzz) |
 | [0771-jewels-and-stones](https://github.com/treesajose-dev/Leetcode-problems/tree/master/0771-jewels-and-stones) |
 | [0819-most-common-word](https://github.com/treesajose-dev/Leetcode-problems/tree/master/0819-most-common-word) |
+| [1002-find-common-characters](https://github.com/treesajose-dev/Leetcode-problems/tree/master/1002-find-common-characters) |
 | [1003-check-if-word-is-valid-after-substitutions](https://github.com/treesajose-dev/Leetcode-problems/tree/master/1003-check-if-word-is-valid-after-substitutions) |
 | [1021-remove-outermost-parentheses](https://github.com/treesajose-dev/Leetcode-problems/tree/master/1021-remove-outermost-parentheses) |
 | [1189-maximum-number-of-balloons](https://github.com/treesajose-dev/Leetcode-problems/tree/master/1189-maximum-number-of-balloons) |
