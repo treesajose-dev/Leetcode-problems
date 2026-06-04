@@ -45,6 +45,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1046-last-stone-weight](https://github.com/treesajose-dev/Leetcode-problems/tree/master/1046-last-stone-weight) |
 | [1051-height-checker](https://github.com/treesajose-dev/Leetcode-problems/tree/master/1051-height-checker) |
 | [1207-unique-number-of-occurrences](https://github.com/treesajose-dev/Leetcode-problems/tree/master/1207-unique-number-of-occurrences) |
+| [1295-find-numbers-with-even-number-of-digits](https://github.com/treesajose-dev/Leetcode-problems/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [1394-find-lucky-integer-in-an-array](https://github.com/treesajose-dev/Leetcode-problems/tree/master/1394-find-lucky-integer-in-an-array) |
 | [1470-shuffle-the-array](https://github.com/treesajose-dev/Leetcode-problems/tree/master/1470-shuffle-the-array) |
 | [1475-final-prices-with-a-special-discount-in-a-shop](https://github.com/treesajose-dev/Leetcode-problems/tree/master/1475-final-prices-with-a-special-discount-in-a-shop) |
@@ -113,6 +114,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0628-maximum-product-of-three-numbers](https://github.com/treesajose-dev/Leetcode-problems/tree/master/0628-maximum-product-of-three-numbers) |
 | [0728-self-dividing-numbers](https://github.com/treesajose-dev/Leetcode-problems/tree/master/0728-self-dividing-numbers) |
 | [1137-n-th-tribonacci-number](https://github.com/treesajose-dev/Leetcode-problems/tree/master/1137-n-th-tribonacci-number) |
+| [1295-find-numbers-with-even-number-of-digits](https://github.com/treesajose-dev/Leetcode-problems/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [1512-number-of-good-pairs](https://github.com/treesajose-dev/Leetcode-problems/tree/master/1512-number-of-good-pairs) |
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/treesajose-dev/Leetcode-problems/tree/master/3300-minimum-element-after-replacement-with-digit-sum) |
 ## Dynamic Programming
