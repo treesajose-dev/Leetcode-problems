@@ -46,6 +46,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1051-height-checker](https://github.com/treesajose-dev/Leetcode-problems/tree/master/1051-height-checker) |
 | [1207-unique-number-of-occurrences](https://github.com/treesajose-dev/Leetcode-problems/tree/master/1207-unique-number-of-occurrences) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/treesajose-dev/Leetcode-problems/tree/master/1295-find-numbers-with-even-number-of-digits) |
+| [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/treesajose-dev/Leetcode-problems/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1394-find-lucky-integer-in-an-array](https://github.com/treesajose-dev/Leetcode-problems/tree/master/1394-find-lucky-integer-in-an-array) |
 | [1470-shuffle-the-array](https://github.com/treesajose-dev/Leetcode-problems/tree/master/1470-shuffle-the-array) |
 | [1475-final-prices-with-a-special-discount-in-a-shop](https://github.com/treesajose-dev/Leetcode-problems/tree/master/1475-final-prices-with-a-special-discount-in-a-shop) |
@@ -89,6 +90,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1002-find-common-characters](https://github.com/treesajose-dev/Leetcode-problems/tree/master/1002-find-common-characters) |
 | [1189-maximum-number-of-balloons](https://github.com/treesajose-dev/Leetcode-problems/tree/master/1189-maximum-number-of-balloons) |
 | [1207-unique-number-of-occurrences](https://github.com/treesajose-dev/Leetcode-problems/tree/master/1207-unique-number-of-occurrences) |
+| [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/treesajose-dev/Leetcode-problems/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1394-find-lucky-integer-in-an-array](https://github.com/treesajose-dev/Leetcode-problems/tree/master/1394-find-lucky-integer-in-an-array) |
 | [1512-number-of-good-pairs](https://github.com/treesajose-dev/Leetcode-problems/tree/master/1512-number-of-good-pairs) |
 | [1684-count-the-number-of-consistent-strings](https://github.com/treesajose-dev/Leetcode-problems/tree/master/1684-count-the-number-of-consistent-strings) |
@@ -244,6 +246,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0645-set-mismatch](https://github.com/treesajose-dev/Leetcode-problems/tree/master/0645-set-mismatch) |
 | [0977-squares-of-a-sorted-array](https://github.com/treesajose-dev/Leetcode-problems/tree/master/0977-squares-of-a-sorted-array) |
 | [1051-height-checker](https://github.com/treesajose-dev/Leetcode-problems/tree/master/1051-height-checker) |
+| [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/treesajose-dev/Leetcode-problems/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1984-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/treesajose-dev/Leetcode-problems/tree/master/1984-minimum-difference-between-highest-and-lowest-of-k-scores) |
 | [2126-destroying-asteroids](https://github.com/treesajose-dev/Leetcode-problems/tree/master/2126-destroying-asteroids) |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/treesajose-dev/Leetcode-problems/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
@@ -445,4 +448,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1051-height-checker](https://github.com/treesajose-dev/Leetcode-problems/tree/master/1051-height-checker) |
+| [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/treesajose-dev/Leetcode-problems/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 <!---LeetCode Topics End-->
