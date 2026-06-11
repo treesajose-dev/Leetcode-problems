@@ -61,6 +61,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2105-watering-plants-ii](https://github.com/treesajose-dev/Leetcode-problems/tree/master/2105-watering-plants-ii) |
 | [2126-destroying-asteroids](https://github.com/treesajose-dev/Leetcode-problems/tree/master/2126-destroying-asteroids) |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/treesajose-dev/Leetcode-problems/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
+| [2418-sort-the-people](https://github.com/treesajose-dev/Leetcode-problems/tree/master/2418-sort-the-people) |
 | [2529-maximum-count-of-positive-integer-and-negative-integer](https://github.com/treesajose-dev/Leetcode-problems/tree/master/2529-maximum-count-of-positive-integer-and-negative-integer) |
 | [2553-separate-the-digits-in-an-array](https://github.com/treesajose-dev/Leetcode-problems/tree/master/2553-separate-the-digits-in-an-array) |
 | [2859-sum-of-values-at-indices-with-k-set-bits](https://github.com/treesajose-dev/Leetcode-problems/tree/master/2859-sum-of-values-at-indices-with-k-set-bits) |
@@ -99,6 +100,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1748-sum-of-unique-elements](https://github.com/treesajose-dev/Leetcode-problems/tree/master/1748-sum-of-unique-elements) |
 | [1796-second-largest-digit-in-a-string](https://github.com/treesajose-dev/Leetcode-problems/tree/master/1796-second-largest-digit-in-a-string) |
 | [2351-first-letter-to-appear-twice](https://github.com/treesajose-dev/Leetcode-problems/tree/master/2351-first-letter-to-appear-twice) |
+| [2418-sort-the-people](https://github.com/treesajose-dev/Leetcode-problems/tree/master/2418-sort-the-people) |
 | [3120-count-the-number-of-special-characters-i](https://github.com/treesajose-dev/Leetcode-problems/tree/master/3120-count-the-number-of-special-characters-i) |
 | [3121-count-the-number-of-special-characters-ii](https://github.com/treesajose-dev/Leetcode-problems/tree/master/3121-count-the-number-of-special-characters-ii) |
 ## Math
@@ -181,6 +183,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1684-count-the-number-of-consistent-strings](https://github.com/treesajose-dev/Leetcode-problems/tree/master/1684-count-the-number-of-consistent-strings) |
 | [1796-second-largest-digit-in-a-string](https://github.com/treesajose-dev/Leetcode-problems/tree/master/1796-second-largest-digit-in-a-string) |
 | [2351-first-letter-to-appear-twice](https://github.com/treesajose-dev/Leetcode-problems/tree/master/2351-first-letter-to-appear-twice) |
+| [2418-sort-the-people](https://github.com/treesajose-dev/Leetcode-problems/tree/master/2418-sort-the-people) |
 | [2696-minimum-string-length-after-removing-substrings](https://github.com/treesajose-dev/Leetcode-problems/tree/master/2696-minimum-string-length-after-removing-substrings) |
 | [3120-count-the-number-of-special-characters-i](https://github.com/treesajose-dev/Leetcode-problems/tree/master/3120-count-the-number-of-special-characters-i) |
 | [3121-count-the-number-of-special-characters-ii](https://github.com/treesajose-dev/Leetcode-problems/tree/master/3121-count-the-number-of-special-characters-ii) |
@@ -255,6 +258,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1984-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/treesajose-dev/Leetcode-problems/tree/master/1984-minimum-difference-between-highest-and-lowest-of-k-scores) |
 | [2126-destroying-asteroids](https://github.com/treesajose-dev/Leetcode-problems/tree/master/2126-destroying-asteroids) |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/treesajose-dev/Leetcode-problems/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
+| [2418-sort-the-people](https://github.com/treesajose-dev/Leetcode-problems/tree/master/2418-sort-the-people) |
 ## Two Pointers
 |  |
 | ------- |
