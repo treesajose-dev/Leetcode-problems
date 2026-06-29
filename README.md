@@ -61,6 +61,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1652-defuse-the-bomb](https://github.com/treesajose-dev/Leetcode-problems/tree/master/1652-defuse-the-bomb) |
 | [1684-count-the-number-of-consistent-strings](https://github.com/treesajose-dev/Leetcode-problems/tree/master/1684-count-the-number-of-consistent-strings) |
 | [1748-sum-of-unique-elements](https://github.com/treesajose-dev/Leetcode-problems/tree/master/1748-sum-of-unique-elements) |
+| [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/treesajose-dev/Leetcode-problems/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [1984-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/treesajose-dev/Leetcode-problems/tree/master/1984-minimum-difference-between-highest-and-lowest-of-k-scores) |
 | [2073-time-needed-to-buy-tickets](https://github.com/treesajose-dev/Leetcode-problems/tree/master/2073-time-needed-to-buy-tickets) |
 | [2079-watering-plants](https://github.com/treesajose-dev/Leetcode-problems/tree/master/2079-watering-plants) |
@@ -204,6 +205,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1684-count-the-number-of-consistent-strings](https://github.com/treesajose-dev/Leetcode-problems/tree/master/1684-count-the-number-of-consistent-strings) |
 | [1796-second-largest-digit-in-a-string](https://github.com/treesajose-dev/Leetcode-problems/tree/master/1796-second-largest-digit-in-a-string) |
 | [1805-number-of-different-integers-in-a-string](https://github.com/treesajose-dev/Leetcode-problems/tree/master/1805-number-of-different-integers-in-a-string) |
+| [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/treesajose-dev/Leetcode-problems/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [2351-first-letter-to-appear-twice](https://github.com/treesajose-dev/Leetcode-problems/tree/master/2351-first-letter-to-appear-twice) |
 | [2418-sort-the-people](https://github.com/treesajose-dev/Leetcode-problems/tree/master/2418-sort-the-people) |
 | [2696-minimum-string-length-after-removing-substrings](https://github.com/treesajose-dev/Leetcode-problems/tree/master/2696-minimum-string-length-after-removing-substrings) |
