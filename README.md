@@ -68,6 +68,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2105-watering-plants-ii](https://github.com/treesajose-dev/Leetcode-problems/tree/master/2105-watering-plants-ii) |
 | [2126-destroying-asteroids](https://github.com/treesajose-dev/Leetcode-problems/tree/master/2126-destroying-asteroids) |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/treesajose-dev/Leetcode-problems/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
+| [2154-keep-multiplying-found-values-by-two](https://github.com/treesajose-dev/Leetcode-problems/tree/master/2154-keep-multiplying-found-values-by-two) |
 | [2404-most-frequent-even-element](https://github.com/treesajose-dev/Leetcode-problems/tree/master/2404-most-frequent-even-element) |
 | [2418-sort-the-people](https://github.com/treesajose-dev/Leetcode-problems/tree/master/2418-sort-the-people) |
 | [2529-maximum-count-of-positive-integer-and-negative-integer](https://github.com/treesajose-dev/Leetcode-problems/tree/master/2529-maximum-count-of-positive-integer-and-negative-integer) |
@@ -114,6 +115,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1748-sum-of-unique-elements](https://github.com/treesajose-dev/Leetcode-problems/tree/master/1748-sum-of-unique-elements) |
 | [1796-second-largest-digit-in-a-string](https://github.com/treesajose-dev/Leetcode-problems/tree/master/1796-second-largest-digit-in-a-string) |
 | [1805-number-of-different-integers-in-a-string](https://github.com/treesajose-dev/Leetcode-problems/tree/master/1805-number-of-different-integers-in-a-string) |
+| [2154-keep-multiplying-found-values-by-two](https://github.com/treesajose-dev/Leetcode-problems/tree/master/2154-keep-multiplying-found-values-by-two) |
 | [2351-first-letter-to-appear-twice](https://github.com/treesajose-dev/Leetcode-problems/tree/master/2351-first-letter-to-appear-twice) |
 | [2404-most-frequent-even-element](https://github.com/treesajose-dev/Leetcode-problems/tree/master/2404-most-frequent-even-element) |
 | [2418-sort-the-people](https://github.com/treesajose-dev/Leetcode-problems/tree/master/2418-sort-the-people) |
@@ -223,6 +225,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2073-time-needed-to-buy-tickets](https://github.com/treesajose-dev/Leetcode-problems/tree/master/2073-time-needed-to-buy-tickets) |
 | [2079-watering-plants](https://github.com/treesajose-dev/Leetcode-problems/tree/master/2079-watering-plants) |
 | [2105-watering-plants-ii](https://github.com/treesajose-dev/Leetcode-problems/tree/master/2105-watering-plants-ii) |
+| [2154-keep-multiplying-found-values-by-two](https://github.com/treesajose-dev/Leetcode-problems/tree/master/2154-keep-multiplying-found-values-by-two) |
 | [2181-merge-nodes-in-between-zeros](https://github.com/treesajose-dev/Leetcode-problems/tree/master/2181-merge-nodes-in-between-zeros) |
 | [2553-separate-the-digits-in-an-array](https://github.com/treesajose-dev/Leetcode-problems/tree/master/2553-separate-the-digits-in-an-array) |
 | [2696-minimum-string-length-after-removing-substrings](https://github.com/treesajose-dev/Leetcode-problems/tree/master/2696-minimum-string-length-after-removing-substrings) |
@@ -295,6 +298,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1984-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/treesajose-dev/Leetcode-problems/tree/master/1984-minimum-difference-between-highest-and-lowest-of-k-scores) |
 | [2126-destroying-asteroids](https://github.com/treesajose-dev/Leetcode-problems/tree/master/2126-destroying-asteroids) |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/treesajose-dev/Leetcode-problems/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
+| [2154-keep-multiplying-found-values-by-two](https://github.com/treesajose-dev/Leetcode-problems/tree/master/2154-keep-multiplying-found-values-by-two) |
 | [2418-sort-the-people](https://github.com/treesajose-dev/Leetcode-problems/tree/master/2418-sort-the-people) |
 ## Two Pointers
 |  |
