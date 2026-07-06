@@ -78,6 +78,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [2540-minimum-common-value](https://github.com/treesajose-dev/Leetcode-problems/tree/master/2540-minimum-common-value) |
 | [2553-separate-the-digits-in-an-array](https://github.com/treesajose-dev/Leetcode-problems/tree/master/2553-separate-the-digits-in-an-array) |
 | [2859-sum-of-values-at-indices-with-k-set-bits](https://github.com/treesajose-dev/Leetcode-problems/tree/master/2859-sum-of-values-at-indices-with-k-set-bits) |
+| [2942-find-words-containing-character](https://github.com/treesajose-dev/Leetcode-problems/tree/master/2942-find-words-containing-character) |
 | [3005-count-elements-with-maximum-frequency](https://github.com/treesajose-dev/Leetcode-problems/tree/master/3005-count-elements-with-maximum-frequency) |
 | [3158-find-the-xor-of-numbers-which-appear-twice](https://github.com/treesajose-dev/Leetcode-problems/tree/master/3158-find-the-xor-of-numbers-which-appear-twice) |
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/treesajose-dev/Leetcode-problems/tree/master/3300-minimum-element-after-replacement-with-digit-sum) |
@@ -221,6 +222,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [2351-first-letter-to-appear-twice](https://github.com/treesajose-dev/Leetcode-problems/tree/master/2351-first-letter-to-appear-twice) |
 | [2418-sort-the-people](https://github.com/treesajose-dev/Leetcode-problems/tree/master/2418-sort-the-people) |
 | [2696-minimum-string-length-after-removing-substrings](https://github.com/treesajose-dev/Leetcode-problems/tree/master/2696-minimum-string-length-after-removing-substrings) |
+| [2942-find-words-containing-character](https://github.com/treesajose-dev/Leetcode-problems/tree/master/2942-find-words-containing-character) |
 | [3120-count-the-number-of-special-characters-i](https://github.com/treesajose-dev/Leetcode-problems/tree/master/3120-count-the-number-of-special-characters-i) |
 | [3121-count-the-number-of-special-characters-ii](https://github.com/treesajose-dev/Leetcode-problems/tree/master/3121-count-the-number-of-special-characters-ii) |
 | [3174-clear-digits](https://github.com/treesajose-dev/Leetcode-problems/tree/master/3174-clear-digits) |
