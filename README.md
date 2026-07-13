@@ -139,6 +139,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [3289-the-two-sneaky-numbers-of-digitville](https://github.com/treesajose-dev/Leetcode-problems/tree/master/3289-the-two-sneaky-numbers-of-digitville) |
 | [3541-find-most-frequent-vowel-and-consonant](https://github.com/treesajose-dev/Leetcode-problems/tree/master/3541-find-most-frequent-vowel-and-consonant) |
 | [3591-check-if-any-element-has-prime-frequency](https://github.com/treesajose-dev/Leetcode-problems/tree/master/3591-check-if-any-element-has-prime-frequency) |
+| [3945-digit-frequency-score](https://github.com/treesajose-dev/Leetcode-problems/tree/master/3945-digit-frequency-score) |
 ## Math
 |  |
 | ------- |
@@ -166,6 +167,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/treesajose-dev/Leetcode-problems/tree/master/3300-minimum-element-after-replacement-with-digit-sum) |
 | [3591-check-if-any-element-has-prime-frequency](https://github.com/treesajose-dev/Leetcode-problems/tree/master/3591-check-if-any-element-has-prime-frequency) |
 | [3754-concatenate-non-zero-digits-and-multiply-by-sum-i](https://github.com/treesajose-dev/Leetcode-problems/tree/master/3754-concatenate-non-zero-digits-and-multiply-by-sum-i) |
+| [3945-digit-frequency-score](https://github.com/treesajose-dev/Leetcode-problems/tree/master/3945-digit-frequency-score) |
 ## Dynamic Programming
 |  |
 | ------- |
