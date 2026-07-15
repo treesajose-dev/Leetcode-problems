@@ -4,19 +4,9 @@ class Solution(object):
         :type n: int
         :rtype: int
         """
-        oddlis=[]
-        evenlis=[]
-        odd=1
-        even=2
 
-        for i in range(n):
-            oddlis.append(odd)
-            odd+=2
-            evenlis.append(even)
-            even+=2
-
-        a=sum(evenlis)
-        b=sum(oddlis)
+        a=n*n
+        b=n*(n+1)
 
         while (b != 0):
             temp = b
