@@ -62,6 +62,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [1619-mean-of-array-after-removing-some-elements](https://github.com/treesajose-dev/Leetcode-problems/tree/master/1619-mean-of-array-after-removing-some-elements) |
 | [1636-sort-array-by-increasing-frequency](https://github.com/treesajose-dev/Leetcode-problems/tree/master/1636-sort-array-by-increasing-frequency) |
 | [1652-defuse-the-bomb](https://github.com/treesajose-dev/Leetcode-problems/tree/master/1652-defuse-the-bomb) |
+| [1672-richest-customer-wealth](https://github.com/treesajose-dev/Leetcode-problems/tree/master/1672-richest-customer-wealth) |
 | [1684-count-the-number-of-consistent-strings](https://github.com/treesajose-dev/Leetcode-problems/tree/master/1684-count-the-number-of-consistent-strings) |
 | [1748-sum-of-unique-elements](https://github.com/treesajose-dev/Leetcode-problems/tree/master/1748-sum-of-unique-elements) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/treesajose-dev/Leetcode-problems/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
@@ -544,4 +545,8 @@ A collection of LeetCode questions to ace the coding interview!
 | [1051-height-checker](https://github.com/treesajose-dev/Leetcode-problems/tree/master/1051-height-checker) |
 | [1122-relative-sort-array](https://github.com/treesajose-dev/Leetcode-problems/tree/master/1122-relative-sort-array) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/treesajose-dev/Leetcode-problems/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
+## Matrix
+|  |
+| ------- |
+| [1672-richest-customer-wealth](https://github.com/treesajose-dev/Leetcode-problems/tree/master/1672-richest-customer-wealth) |
 <!---LeetCode Topics End-->
