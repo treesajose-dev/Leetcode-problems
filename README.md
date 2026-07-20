@@ -67,6 +67,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [1672-richest-customer-wealth](https://github.com/treesajose-dev/Leetcode-problems/tree/master/1672-richest-customer-wealth) |
 | [1684-count-the-number-of-consistent-strings](https://github.com/treesajose-dev/Leetcode-problems/tree/master/1684-count-the-number-of-consistent-strings) |
 | [1748-sum-of-unique-elements](https://github.com/treesajose-dev/Leetcode-problems/tree/master/1748-sum-of-unique-elements) |
+| [1816-truncate-sentence](https://github.com/treesajose-dev/Leetcode-problems/tree/master/1816-truncate-sentence) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/treesajose-dev/Leetcode-problems/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/treesajose-dev/Leetcode-problems/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [1984-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/treesajose-dev/Leetcode-problems/tree/master/1984-minimum-difference-between-highest-and-lowest-of-k-scores) |
@@ -235,6 +236,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [1684-count-the-number-of-consistent-strings](https://github.com/treesajose-dev/Leetcode-problems/tree/master/1684-count-the-number-of-consistent-strings) |
 | [1796-second-largest-digit-in-a-string](https://github.com/treesajose-dev/Leetcode-problems/tree/master/1796-second-largest-digit-in-a-string) |
 | [1805-number-of-different-integers-in-a-string](https://github.com/treesajose-dev/Leetcode-problems/tree/master/1805-number-of-different-integers-in-a-string) |
+| [1816-truncate-sentence](https://github.com/treesajose-dev/Leetcode-problems/tree/master/1816-truncate-sentence) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/treesajose-dev/Leetcode-problems/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [2085-count-common-words-with-one-occurrence](https://github.com/treesajose-dev/Leetcode-problems/tree/master/2085-count-common-words-with-one-occurrence) |
 | [2114-maximum-number-of-words-found-in-sentences](https://github.com/treesajose-dev/Leetcode-problems/tree/master/2114-maximum-number-of-words-found-in-sentences) |
