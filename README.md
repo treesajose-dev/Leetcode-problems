@@ -88,6 +88,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [2540-minimum-common-value](https://github.com/treesajose-dev/Leetcode-problems/tree/master/2540-minimum-common-value) |
 | [2553-separate-the-digits-in-an-array](https://github.com/treesajose-dev/Leetcode-problems/tree/master/2553-separate-the-digits-in-an-array) |
 | [2678-number-of-senior-citizens](https://github.com/treesajose-dev/Leetcode-problems/tree/master/2678-number-of-senior-citizens) |
+| [2733-neither-minimum-nor-maximum](https://github.com/treesajose-dev/Leetcode-problems/tree/master/2733-neither-minimum-nor-maximum) |
 | [2859-sum-of-values-at-indices-with-k-set-bits](https://github.com/treesajose-dev/Leetcode-problems/tree/master/2859-sum-of-values-at-indices-with-k-set-bits) |
 | [2942-find-words-containing-character](https://github.com/treesajose-dev/Leetcode-problems/tree/master/2942-find-words-containing-character) |
 | [3005-count-elements-with-maximum-frequency](https://github.com/treesajose-dev/Leetcode-problems/tree/master/3005-count-elements-with-maximum-frequency) |
@@ -343,6 +344,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [2154-keep-multiplying-found-values-by-two](https://github.com/treesajose-dev/Leetcode-problems/tree/master/2154-keep-multiplying-found-values-by-two) |
 | [2418-sort-the-people](https://github.com/treesajose-dev/Leetcode-problems/tree/master/2418-sort-the-people) |
 | [2441-largest-positive-integer-that-exists-with-its-negative](https://github.com/treesajose-dev/Leetcode-problems/tree/master/2441-largest-positive-integer-that-exists-with-its-negative) |
+| [2733-neither-minimum-nor-maximum](https://github.com/treesajose-dev/Leetcode-problems/tree/master/2733-neither-minimum-nor-maximum) |
 ## Two Pointers
 |  |
 | ------- |
