@@ -178,6 +178,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [1979-find-greatest-common-divisor-of-array](https://github.com/treesajose-dev/Leetcode-problems/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [3289-the-two-sneaky-numbers-of-digitville](https://github.com/treesajose-dev/Leetcode-problems/tree/master/3289-the-two-sneaky-numbers-of-digitville) |
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/treesajose-dev/Leetcode-problems/tree/master/3300-minimum-element-after-replacement-with-digit-sum) |
+| [3536-maximum-product-of-two-digits](https://github.com/treesajose-dev/Leetcode-problems/tree/master/3536-maximum-product-of-two-digits) |
 | [3591-check-if-any-element-has-prime-frequency](https://github.com/treesajose-dev/Leetcode-problems/tree/master/3591-check-if-any-element-has-prime-frequency) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/treesajose-dev/Leetcode-problems/tree/master/3658-gcd-of-odd-and-even-sums) |
 | [3754-concatenate-non-zero-digits-and-multiply-by-sum-i](https://github.com/treesajose-dev/Leetcode-problems/tree/master/3754-concatenate-non-zero-digits-and-multiply-by-sum-i) |
@@ -347,6 +348,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [2418-sort-the-people](https://github.com/treesajose-dev/Leetcode-problems/tree/master/2418-sort-the-people) |
 | [2441-largest-positive-integer-that-exists-with-its-negative](https://github.com/treesajose-dev/Leetcode-problems/tree/master/2441-largest-positive-integer-that-exists-with-its-negative) |
 | [2733-neither-minimum-nor-maximum](https://github.com/treesajose-dev/Leetcode-problems/tree/master/2733-neither-minimum-nor-maximum) |
+| [3536-maximum-product-of-two-digits](https://github.com/treesajose-dev/Leetcode-problems/tree/master/3536-maximum-product-of-two-digits) |
 ## Two Pointers
 |  |
 | ------- |
