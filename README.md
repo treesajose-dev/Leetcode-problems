@@ -57,6 +57,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [1394-find-lucky-integer-in-an-array](https://github.com/treesajose-dev/Leetcode-problems/tree/master/1394-find-lucky-integer-in-an-array) |
 | [1431-kids-with-the-greatest-number-of-candies](https://github.com/treesajose-dev/Leetcode-problems/tree/master/1431-kids-with-the-greatest-number-of-candies) |
 | [1450-number-of-students-doing-homework-at-a-given-time](https://github.com/treesajose-dev/Leetcode-problems/tree/master/1450-number-of-students-doing-homework-at-a-given-time) |
+| [1464-maximum-product-of-two-elements-in-an-array](https://github.com/treesajose-dev/Leetcode-problems/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1470-shuffle-the-array](https://github.com/treesajose-dev/Leetcode-problems/tree/master/1470-shuffle-the-array) |
 | [1475-final-prices-with-a-special-discount-in-a-shop](https://github.com/treesajose-dev/Leetcode-problems/tree/master/1475-final-prices-with-a-special-discount-in-a-shop) |
 | [1491-average-salary-excluding-the-minimum-and-maximum-salary](https://github.com/treesajose-dev/Leetcode-problems/tree/master/1491-average-salary-excluding-the-minimum-and-maximum-salary) |
@@ -337,6 +338,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [1331-rank-transform-of-an-array](https://github.com/treesajose-dev/Leetcode-problems/tree/master/1331-rank-transform-of-an-array) |
 | [1346-check-if-n-and-its-double-exist](https://github.com/treesajose-dev/Leetcode-problems/tree/master/1346-check-if-n-and-its-double-exist) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/treesajose-dev/Leetcode-problems/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
+| [1464-maximum-product-of-two-elements-in-an-array](https://github.com/treesajose-dev/Leetcode-problems/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1491-average-salary-excluding-the-minimum-and-maximum-salary](https://github.com/treesajose-dev/Leetcode-problems/tree/master/1491-average-salary-excluding-the-minimum-and-maximum-salary) |
 | [1608-special-array-with-x-elements-greater-than-or-equal-x](https://github.com/treesajose-dev/Leetcode-problems/tree/master/1608-special-array-with-x-elements-greater-than-or-equal-x) |
 | [1619-mean-of-array-after-removing-some-elements](https://github.com/treesajose-dev/Leetcode-problems/tree/master/1619-mean-of-array-after-removing-some-elements) |
@@ -518,6 +520,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0215-kth-largest-element-in-an-array](https://github.com/treesajose-dev/Leetcode-problems/tree/master/0215-kth-largest-element-in-an-array) |
 | [0347-top-k-frequent-elements](https://github.com/treesajose-dev/Leetcode-problems/tree/master/0347-top-k-frequent-elements) |
 | [1046-last-stone-weight](https://github.com/treesajose-dev/Leetcode-problems/tree/master/1046-last-stone-weight) |
+| [1464-maximum-product-of-two-elements-in-an-array](https://github.com/treesajose-dev/Leetcode-problems/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 ## Breadth-First Search
 |  |
 | ------- |
