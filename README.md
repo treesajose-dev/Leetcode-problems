@@ -93,6 +93,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [2553-separate-the-digits-in-an-array](https://github.com/treesajose-dev/Leetcode-problems/tree/master/2553-separate-the-digits-in-an-array) |
 | [2678-number-of-senior-citizens](https://github.com/treesajose-dev/Leetcode-problems/tree/master/2678-number-of-senior-citizens) |
 | [2733-neither-minimum-nor-maximum](https://github.com/treesajose-dev/Leetcode-problems/tree/master/2733-neither-minimum-nor-maximum) |
+| [2778-sum-of-squares-of-special-elements](https://github.com/treesajose-dev/Leetcode-problems/tree/master/2778-sum-of-squares-of-special-elements) |
 | [2859-sum-of-values-at-indices-with-k-set-bits](https://github.com/treesajose-dev/Leetcode-problems/tree/master/2859-sum-of-values-at-indices-with-k-set-bits) |
 | [2942-find-words-containing-character](https://github.com/treesajose-dev/Leetcode-problems/tree/master/2942-find-words-containing-character) |
 | [3005-count-elements-with-maximum-frequency](https://github.com/treesajose-dev/Leetcode-problems/tree/master/3005-count-elements-with-maximum-frequency) |
@@ -578,4 +579,8 @@ A collection of LeetCode questions to ace the coding interview!
 | ------- |
 | [1380-lucky-numbers-in-a-matrix](https://github.com/treesajose-dev/Leetcode-problems/tree/master/1380-lucky-numbers-in-a-matrix) |
 | [1672-richest-customer-wealth](https://github.com/treesajose-dev/Leetcode-problems/tree/master/1672-richest-customer-wealth) |
+## Enumeration
+|  |
+| ------- |
+| [2778-sum-of-squares-of-special-elements](https://github.com/treesajose-dev/Leetcode-problems/tree/master/2778-sum-of-squares-of-special-elements) |
 <!---LeetCode Topics End-->
