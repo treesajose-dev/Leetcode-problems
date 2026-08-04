@@ -105,6 +105,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [3289-the-two-sneaky-numbers-of-digitville](https://github.com/treesajose-dev/Leetcode-problems/tree/master/3289-the-two-sneaky-numbers-of-digitville) |
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/treesajose-dev/Leetcode-problems/tree/master/3300-minimum-element-after-replacement-with-digit-sum) |
 | [3591-check-if-any-element-has-prime-frequency](https://github.com/treesajose-dev/Leetcode-problems/tree/master/3591-check-if-any-element-has-prime-frequency) |
+| [3731-find-missing-elements](https://github.com/treesajose-dev/Leetcode-problems/tree/master/3731-find-missing-elements) |
 | [3838-weighted-word-mapping](https://github.com/treesajose-dev/Leetcode-problems/tree/master/3838-weighted-word-mapping) |
 | [3866-first-unique-even-element](https://github.com/treesajose-dev/Leetcode-problems/tree/master/3866-first-unique-even-element) |
 ## Hash Table
@@ -160,6 +161,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [3289-the-two-sneaky-numbers-of-digitville](https://github.com/treesajose-dev/Leetcode-problems/tree/master/3289-the-two-sneaky-numbers-of-digitville) |
 | [3541-find-most-frequent-vowel-and-consonant](https://github.com/treesajose-dev/Leetcode-problems/tree/master/3541-find-most-frequent-vowel-and-consonant) |
 | [3591-check-if-any-element-has-prime-frequency](https://github.com/treesajose-dev/Leetcode-problems/tree/master/3591-check-if-any-element-has-prime-frequency) |
+| [3731-find-missing-elements](https://github.com/treesajose-dev/Leetcode-problems/tree/master/3731-find-missing-elements) |
 | [3866-first-unique-even-element](https://github.com/treesajose-dev/Leetcode-problems/tree/master/3866-first-unique-even-element) |
 | [3945-digit-frequency-score](https://github.com/treesajose-dev/Leetcode-problems/tree/master/3945-digit-frequency-score) |
 ## Math
@@ -364,6 +366,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [2441-largest-positive-integer-that-exists-with-its-negative](https://github.com/treesajose-dev/Leetcode-problems/tree/master/2441-largest-positive-integer-that-exists-with-its-negative) |
 | [2733-neither-minimum-nor-maximum](https://github.com/treesajose-dev/Leetcode-problems/tree/master/2733-neither-minimum-nor-maximum) |
 | [3536-maximum-product-of-two-digits](https://github.com/treesajose-dev/Leetcode-problems/tree/master/3536-maximum-product-of-two-digits) |
+| [3731-find-missing-elements](https://github.com/treesajose-dev/Leetcode-problems/tree/master/3731-find-missing-elements) |
 ## Two Pointers
 |  |
 | ------- |
