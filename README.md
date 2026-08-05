@@ -257,6 +257,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [1805-number-of-different-integers-in-a-string](https://github.com/treesajose-dev/Leetcode-problems/tree/master/1805-number-of-different-integers-in-a-string) |
 | [1816-truncate-sentence](https://github.com/treesajose-dev/Leetcode-problems/tree/master/1816-truncate-sentence) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/treesajose-dev/Leetcode-problems/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
+| [2000-reverse-prefix-of-word](https://github.com/treesajose-dev/Leetcode-problems/tree/master/2000-reverse-prefix-of-word) |
 | [2085-count-common-words-with-one-occurrence](https://github.com/treesajose-dev/Leetcode-problems/tree/master/2085-count-common-words-with-one-occurrence) |
 | [2114-maximum-number-of-words-found-in-sentences](https://github.com/treesajose-dev/Leetcode-problems/tree/master/2114-maximum-number-of-words-found-in-sentences) |
 | [2185-counting-words-with-a-given-prefix](https://github.com/treesajose-dev/Leetcode-problems/tree/master/2185-counting-words-with-a-given-prefix) |
@@ -393,6 +394,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0977-squares-of-a-sorted-array](https://github.com/treesajose-dev/Leetcode-problems/tree/master/0977-squares-of-a-sorted-array) |
 | [1089-duplicate-zeros](https://github.com/treesajose-dev/Leetcode-problems/tree/master/1089-duplicate-zeros) |
 | [1346-check-if-n-and-its-double-exist](https://github.com/treesajose-dev/Leetcode-problems/tree/master/1346-check-if-n-and-its-double-exist) |
+| [2000-reverse-prefix-of-word](https://github.com/treesajose-dev/Leetcode-problems/tree/master/2000-reverse-prefix-of-word) |
 | [2105-watering-plants-ii](https://github.com/treesajose-dev/Leetcode-problems/tree/master/2105-watering-plants-ii) |
 | [2441-largest-positive-integer-that-exists-with-its-negative](https://github.com/treesajose-dev/Leetcode-problems/tree/master/2441-largest-positive-integer-that-exists-with-its-negative) |
 | [2540-minimum-common-value](https://github.com/treesajose-dev/Leetcode-problems/tree/master/2540-minimum-common-value) |
@@ -425,6 +427,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/treesajose-dev/Leetcode-problems/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 | [1475-final-prices-with-a-special-discount-in-a-shop](https://github.com/treesajose-dev/Leetcode-problems/tree/master/1475-final-prices-with-a-special-discount-in-a-shop) |
 | [1544-make-the-string-great](https://github.com/treesajose-dev/Leetcode-problems/tree/master/1544-make-the-string-great) |
+| [2000-reverse-prefix-of-word](https://github.com/treesajose-dev/Leetcode-problems/tree/master/2000-reverse-prefix-of-word) |
 | [2696-minimum-string-length-after-removing-substrings](https://github.com/treesajose-dev/Leetcode-problems/tree/master/2696-minimum-string-length-after-removing-substrings) |
 | [3174-clear-digits](https://github.com/treesajose-dev/Leetcode-problems/tree/master/3174-clear-digits) |
 ## Queue
