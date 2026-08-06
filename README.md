@@ -190,6 +190,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [1979-find-greatest-common-divisor-of-array](https://github.com/treesajose-dev/Leetcode-problems/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [3289-the-two-sneaky-numbers-of-digitville](https://github.com/treesajose-dev/Leetcode-problems/tree/master/3289-the-two-sneaky-numbers-of-digitville) |
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/treesajose-dev/Leetcode-problems/tree/master/3300-minimum-element-after-replacement-with-digit-sum) |
+| [3345-smallest-divisible-digit-product-i](https://github.com/treesajose-dev/Leetcode-problems/tree/master/3345-smallest-divisible-digit-product-i) |
 | [3536-maximum-product-of-two-digits](https://github.com/treesajose-dev/Leetcode-problems/tree/master/3536-maximum-product-of-two-digits) |
 | [3591-check-if-any-element-has-prime-frequency](https://github.com/treesajose-dev/Leetcode-problems/tree/master/3591-check-if-any-element-has-prime-frequency) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/treesajose-dev/Leetcode-problems/tree/master/3658-gcd-of-odd-and-even-sums) |
@@ -597,4 +598,5 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [2778-sum-of-squares-of-special-elements](https://github.com/treesajose-dev/Leetcode-problems/tree/master/2778-sum-of-squares-of-special-elements) |
+| [3345-smallest-divisible-digit-product-i](https://github.com/treesajose-dev/Leetcode-problems/tree/master/3345-smallest-divisible-digit-product-i) |
 <!---LeetCode Topics End-->
