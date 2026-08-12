@@ -150,6 +150,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [1748-sum-of-unique-elements](https://github.com/treesajose-dev/Leetcode-problems/tree/master/1748-sum-of-unique-elements) |
 | [1796-second-largest-digit-in-a-string](https://github.com/treesajose-dev/Leetcode-problems/tree/master/1796-second-largest-digit-in-a-string) |
 | [1805-number-of-different-integers-in-a-string](https://github.com/treesajose-dev/Leetcode-problems/tree/master/1805-number-of-different-integers-in-a-string) |
+| [1941-check-if-all-characters-have-equal-number-of-occurrences](https://github.com/treesajose-dev/Leetcode-problems/tree/master/1941-check-if-all-characters-have-equal-number-of-occurrences) |
 | [2085-count-common-words-with-one-occurrence](https://github.com/treesajose-dev/Leetcode-problems/tree/master/2085-count-common-words-with-one-occurrence) |
 | [2154-keep-multiplying-found-values-by-two](https://github.com/treesajose-dev/Leetcode-problems/tree/master/2154-keep-multiplying-found-values-by-two) |
 | [2351-first-letter-to-appear-twice](https://github.com/treesajose-dev/Leetcode-problems/tree/master/2351-first-letter-to-appear-twice) |
@@ -262,6 +263,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [1796-second-largest-digit-in-a-string](https://github.com/treesajose-dev/Leetcode-problems/tree/master/1796-second-largest-digit-in-a-string) |
 | [1805-number-of-different-integers-in-a-string](https://github.com/treesajose-dev/Leetcode-problems/tree/master/1805-number-of-different-integers-in-a-string) |
 | [1816-truncate-sentence](https://github.com/treesajose-dev/Leetcode-problems/tree/master/1816-truncate-sentence) |
+| [1941-check-if-all-characters-have-equal-number-of-occurrences](https://github.com/treesajose-dev/Leetcode-problems/tree/master/1941-check-if-all-characters-have-equal-number-of-occurrences) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/treesajose-dev/Leetcode-problems/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [2000-reverse-prefix-of-word](https://github.com/treesajose-dev/Leetcode-problems/tree/master/2000-reverse-prefix-of-word) |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/treesajose-dev/Leetcode-problems/tree/master/2011-final-value-of-variable-after-performing-operations) |
@@ -461,6 +463,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [1512-number-of-good-pairs](https://github.com/treesajose-dev/Leetcode-problems/tree/master/1512-number-of-good-pairs) |
 | [1684-count-the-number-of-consistent-strings](https://github.com/treesajose-dev/Leetcode-problems/tree/master/1684-count-the-number-of-consistent-strings) |
 | [1748-sum-of-unique-elements](https://github.com/treesajose-dev/Leetcode-problems/tree/master/1748-sum-of-unique-elements) |
+| [1941-check-if-all-characters-have-equal-number-of-occurrences](https://github.com/treesajose-dev/Leetcode-problems/tree/master/1941-check-if-all-characters-have-equal-number-of-occurrences) |
 | [2085-count-common-words-with-one-occurrence](https://github.com/treesajose-dev/Leetcode-problems/tree/master/2085-count-common-words-with-one-occurrence) |
 | [2351-first-letter-to-appear-twice](https://github.com/treesajose-dev/Leetcode-problems/tree/master/2351-first-letter-to-appear-twice) |
 | [2404-most-frequent-even-element](https://github.com/treesajose-dev/Leetcode-problems/tree/master/2404-most-frequent-even-element) |
