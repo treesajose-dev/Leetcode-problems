@@ -213,6 +213,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0313-super-ugly-number](https://github.com/treesajose-dev/Leetcode-problems/tree/master/0313-super-ugly-number) |
 | [0322-coin-change](https://github.com/treesajose-dev/Leetcode-problems/tree/master/0322-coin-change) |
 | [0338-counting-bits](https://github.com/treesajose-dev/Leetcode-problems/tree/master/0338-counting-bits) |
+| [0392-is-subsequence](https://github.com/treesajose-dev/Leetcode-problems/tree/master/0392-is-subsequence) |
 | [0509-fibonacci-number](https://github.com/treesajose-dev/Leetcode-problems/tree/master/0509-fibonacci-number) |
 | [0746-min-cost-climbing-stairs](https://github.com/treesajose-dev/Leetcode-problems/tree/master/0746-min-cost-climbing-stairs) |
 | [1025-divisor-game](https://github.com/treesajose-dev/Leetcode-problems/tree/master/1025-divisor-game) |
@@ -250,6 +251,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0345-reverse-vowels-of-a-string](https://github.com/treesajose-dev/Leetcode-problems/tree/master/0345-reverse-vowels-of-a-string) |
 | [0387-first-unique-character-in-a-string](https://github.com/treesajose-dev/Leetcode-problems/tree/master/0387-first-unique-character-in-a-string) |
 | [0389-find-the-difference](https://github.com/treesajose-dev/Leetcode-problems/tree/master/0389-find-the-difference) |
+| [0392-is-subsequence](https://github.com/treesajose-dev/Leetcode-problems/tree/master/0392-is-subsequence) |
 | [0412-fizz-buzz](https://github.com/treesajose-dev/Leetcode-problems/tree/master/0412-fizz-buzz) |
 | [0771-jewels-and-stones](https://github.com/treesajose-dev/Leetcode-problems/tree/master/0771-jewels-and-stones) |
 | [0819-most-common-word](https://github.com/treesajose-dev/Leetcode-problems/tree/master/0819-most-common-word) |
@@ -413,6 +415,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0345-reverse-vowels-of-a-string](https://github.com/treesajose-dev/Leetcode-problems/tree/master/0345-reverse-vowels-of-a-string) |
 | [0349-intersection-of-two-arrays](https://github.com/treesajose-dev/Leetcode-problems/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/treesajose-dev/Leetcode-problems/tree/master/0350-intersection-of-two-arrays-ii) |
+| [0392-is-subsequence](https://github.com/treesajose-dev/Leetcode-problems/tree/master/0392-is-subsequence) |
 | [0876-middle-of-the-linked-list](https://github.com/treesajose-dev/Leetcode-problems/tree/master/0876-middle-of-the-linked-list) |
 | [0977-squares-of-a-sorted-array](https://github.com/treesajose-dev/Leetcode-problems/tree/master/0977-squares-of-a-sorted-array) |
 | [1089-duplicate-zeros](https://github.com/treesajose-dev/Leetcode-problems/tree/master/1089-duplicate-zeros) |
