@@ -291,6 +291,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [3120-count-the-number-of-special-characters-i](https://github.com/treesajose-dev/Leetcode-problems/tree/master/3120-count-the-number-of-special-characters-i) |
 | [3121-count-the-number-of-special-characters-ii](https://github.com/treesajose-dev/Leetcode-problems/tree/master/3121-count-the-number-of-special-characters-ii) |
 | [3174-clear-digits](https://github.com/treesajose-dev/Leetcode-problems/tree/master/3174-clear-digits) |
+| [3258-count-substrings-that-satisfy-k-constraint-i](https://github.com/treesajose-dev/Leetcode-problems/tree/master/3258-count-substrings-that-satisfy-k-constraint-i) |
 | [3541-find-most-frequent-vowel-and-consonant](https://github.com/treesajose-dev/Leetcode-problems/tree/master/3541-find-most-frequent-vowel-and-consonant) |
 | [3612-process-string-with-special-operations-i](https://github.com/treesajose-dev/Leetcode-problems/tree/master/3612-process-string-with-special-operations-i) |
 | [3794-reverse-string-prefix](https://github.com/treesajose-dev/Leetcode-problems/tree/master/3794-reverse-string-prefix) |
@@ -555,6 +556,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0219-contains-duplicate-ii](https://github.com/treesajose-dev/Leetcode-problems/tree/master/0219-contains-duplicate-ii) |
 | [1652-defuse-the-bomb](https://github.com/treesajose-dev/Leetcode-problems/tree/master/1652-defuse-the-bomb) |
 | [1984-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/treesajose-dev/Leetcode-problems/tree/master/1984-minimum-difference-between-highest-and-lowest-of-k-scores) |
+| [3258-count-substrings-that-satisfy-k-constraint-i](https://github.com/treesajose-dev/Leetcode-problems/tree/master/3258-count-substrings-that-satisfy-k-constraint-i) |
 ## Monotonic Stack
 |  |
 | ------- |
