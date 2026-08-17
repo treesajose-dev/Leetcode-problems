@@ -5,24 +5,16 @@ class Solution(object):
         :rtype: List[int]
         """
         
+        set1=set(nums)
         n=len(nums)
 
-        lis=[]
+        natural_sum=n*(n+1)//2
+        
 
-        dict1={}
+        num_sum=sum(nums)
+        set1_sum=sum(set1)
 
-        for x in nums:
-            if x in dict1:
-                dict1[x]+=1
-                lis.append(x)
-            else:
-                dict1[x]=1
-
-        for y in range(1,n+1):
-            if y not in nums:
-                lis.append(y)
-
-        return lis
+        return [num_sum-set1_sum, natural_sum-set1_sum]
         
 
         
