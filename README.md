@@ -217,6 +217,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0746-min-cost-climbing-stairs](https://github.com/treesajose-dev/Leetcode-problems/tree/master/0746-min-cost-climbing-stairs) |
 | [1025-divisor-game](https://github.com/treesajose-dev/Leetcode-problems/tree/master/1025-divisor-game) |
 | [1137-n-th-tribonacci-number](https://github.com/treesajose-dev/Leetcode-problems/tree/master/1137-n-th-tribonacci-number) |
+| [1668-maximum-repeating-substring](https://github.com/treesajose-dev/Leetcode-problems/tree/master/1668-maximum-repeating-substring) |
 | [2900-longest-unequal-adjacent-groups-subsequence-i](https://github.com/treesajose-dev/Leetcode-problems/tree/master/2900-longest-unequal-adjacent-groups-subsequence-i) |
 ## Recursion
 |  |
@@ -262,6 +263,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [1528-shuffle-string](https://github.com/treesajose-dev/Leetcode-problems/tree/master/1528-shuffle-string) |
 | [1544-make-the-string-great](https://github.com/treesajose-dev/Leetcode-problems/tree/master/1544-make-the-string-great) |
 | [1662-check-if-two-string-arrays-are-equivalent](https://github.com/treesajose-dev/Leetcode-problems/tree/master/1662-check-if-two-string-arrays-are-equivalent) |
+| [1668-maximum-repeating-substring](https://github.com/treesajose-dev/Leetcode-problems/tree/master/1668-maximum-repeating-substring) |
 | [1678-goal-parser-interpretation](https://github.com/treesajose-dev/Leetcode-problems/tree/master/1678-goal-parser-interpretation) |
 | [1684-count-the-number-of-consistent-strings](https://github.com/treesajose-dev/Leetcode-problems/tree/master/1684-count-the-number-of-consistent-strings) |
 | [1773-count-items-matching-a-rule](https://github.com/treesajose-dev/Leetcode-problems/tree/master/1773-count-items-matching-a-rule) |
@@ -424,6 +426,7 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/treesajose-dev/Leetcode-problems/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+| [1668-maximum-repeating-substring](https://github.com/treesajose-dev/Leetcode-problems/tree/master/1668-maximum-repeating-substring) |
 | [2185-counting-words-with-a-given-prefix](https://github.com/treesajose-dev/Leetcode-problems/tree/master/2185-counting-words-with-a-given-prefix) |
 ## Greedy
 |  |
