@@ -25,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0219-contains-duplicate-ii](https://github.com/treesajose-dev/Leetcode-problems/tree/master/0219-contains-duplicate-ii) |
 | [0268-missing-number](https://github.com/treesajose-dev/Leetcode-problems/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/treesajose-dev/Leetcode-problems/tree/master/0283-move-zeroes) |
+| [0287-find-the-duplicate-number](https://github.com/treesajose-dev/Leetcode-problems/tree/master/0287-find-the-duplicate-number) |
 | [0313-super-ugly-number](https://github.com/treesajose-dev/Leetcode-problems/tree/master/0313-super-ugly-number) |
 | [0322-coin-change](https://github.com/treesajose-dev/Leetcode-problems/tree/master/0322-coin-change) |
 | [0347-top-k-frequent-elements](https://github.com/treesajose-dev/Leetcode-problems/tree/master/0347-top-k-frequent-elements) |
@@ -331,6 +332,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/treesajose-dev/Leetcode-problems/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0268-missing-number](https://github.com/treesajose-dev/Leetcode-problems/tree/master/0268-missing-number) |
 | [0278-first-bad-version](https://github.com/treesajose-dev/Leetcode-problems/tree/master/0278-first-bad-version) |
+| [0287-find-the-duplicate-number](https://github.com/treesajose-dev/Leetcode-problems/tree/master/0287-find-the-duplicate-number) |
 | [0349-intersection-of-two-arrays](https://github.com/treesajose-dev/Leetcode-problems/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/treesajose-dev/Leetcode-problems/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0374-guess-number-higher-or-lower](https://github.com/treesajose-dev/Leetcode-problems/tree/master/0374-guess-number-higher-or-lower) |
@@ -349,6 +351,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0191-number-of-1-bits](https://github.com/treesajose-dev/Leetcode-problems/tree/master/0191-number-of-1-bits) |
 | [0231-power-of-two](https://github.com/treesajose-dev/Leetcode-problems/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/treesajose-dev/Leetcode-problems/tree/master/0268-missing-number) |
+| [0287-find-the-duplicate-number](https://github.com/treesajose-dev/Leetcode-problems/tree/master/0287-find-the-duplicate-number) |
 | [0338-counting-bits](https://github.com/treesajose-dev/Leetcode-problems/tree/master/0338-counting-bits) |
 | [0342-power-of-four](https://github.com/treesajose-dev/Leetcode-problems/tree/master/0342-power-of-four) |
 | [0389-find-the-difference](https://github.com/treesajose-dev/Leetcode-problems/tree/master/0389-find-the-difference) |
@@ -416,6 +419,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0202-happy-number](https://github.com/treesajose-dev/Leetcode-problems/tree/master/0202-happy-number) |
 | [0234-palindrome-linked-list](https://github.com/treesajose-dev/Leetcode-problems/tree/master/0234-palindrome-linked-list) |
 | [0283-move-zeroes](https://github.com/treesajose-dev/Leetcode-problems/tree/master/0283-move-zeroes) |
+| [0287-find-the-duplicate-number](https://github.com/treesajose-dev/Leetcode-problems/tree/master/0287-find-the-duplicate-number) |
 | [0344-reverse-string](https://github.com/treesajose-dev/Leetcode-problems/tree/master/0344-reverse-string) |
 | [0345-reverse-vowels-of-a-string](https://github.com/treesajose-dev/Leetcode-problems/tree/master/0345-reverse-vowels-of-a-string) |
 | [0349-intersection-of-two-arrays](https://github.com/treesajose-dev/Leetcode-problems/tree/master/0349-intersection-of-two-arrays) |
@@ -651,4 +655,12 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [1025-divisor-game](https://github.com/treesajose-dev/Leetcode-problems/tree/master/1025-divisor-game) |
+## Pigeonhole Principle
+|  |
+| ------- |
+| [0287-find-the-duplicate-number](https://github.com/treesajose-dev/Leetcode-problems/tree/master/0287-find-the-duplicate-number) |
+## Floyd's Cycle Finding Algorithm
+|  |
+| ------- |
+| [0287-find-the-duplicate-number](https://github.com/treesajose-dev/Leetcode-problems/tree/master/0287-find-the-duplicate-number) |
 <!---LeetCode Topics End-->
