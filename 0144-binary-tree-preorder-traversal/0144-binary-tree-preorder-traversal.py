@@ -4,18 +4,14 @@ class Solution(object):
         :type root: Optional[TreeNode]
         :rtype: List[int]
         """
-        if root is None:
-            return []
+        ret= []
+        stack = [root]
 
-        lis = []
+        while stack:
+            node=stack.pop()
+            if node:
+                ret.append(node.val)
+                stack.append(node.right)
+                stack.append(node.left)
 
-        # Root
-        lis.append(root.val)
-
-        # Left
-        lis = lis + self.preorderTraversal(root.left)
-
-        # Right
-        lis = lis + self.preorderTraversal(root.right)
-
-        return lis
+        return ret
