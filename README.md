@@ -590,6 +590,7 @@ A collection of LeetCode questions to ace the coding interview!
 ## Breadth-First Search
 |  |
 | ------- |
+| [0112-path-sum](https://github.com/treesajose-dev/Leetcode-problems/tree/master/0112-path-sum) |
 | [0207-course-schedule](https://github.com/treesajose-dev/Leetcode-problems/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/treesajose-dev/Leetcode-problems/tree/master/0210-course-schedule-ii) |
 | [0322-coin-change](https://github.com/treesajose-dev/Leetcode-problems/tree/master/0322-coin-change) |
@@ -606,6 +607,7 @@ A collection of LeetCode questions to ace the coding interview!
 ## Depth-First Search
 |  |
 | ------- |
+| [0112-path-sum](https://github.com/treesajose-dev/Leetcode-problems/tree/master/0112-path-sum) |
 | [0207-course-schedule](https://github.com/treesajose-dev/Leetcode-problems/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/treesajose-dev/Leetcode-problems/tree/master/0210-course-schedule-ii) |
 | [1971-find-if-path-exists-in-graph](https://github.com/treesajose-dev/Leetcode-problems/tree/master/1971-find-if-path-exists-in-graph) |
@@ -669,4 +671,12 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0287-find-the-duplicate-number](https://github.com/treesajose-dev/Leetcode-problems/tree/master/0287-find-the-duplicate-number) |
+## Tree
+|  |
+| ------- |
+| [0112-path-sum](https://github.com/treesajose-dev/Leetcode-problems/tree/master/0112-path-sum) |
+## Binary Tree
+|  |
+| ------- |
+| [0112-path-sum](https://github.com/treesajose-dev/Leetcode-problems/tree/master/0112-path-sum) |
 <!---LeetCode Topics End-->
