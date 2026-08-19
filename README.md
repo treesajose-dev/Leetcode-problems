@@ -455,6 +455,7 @@ A collection of LeetCode questions to ace the coding interview!
 | ------- |
 | [0020-valid-parentheses](https://github.com/treesajose-dev/Leetcode-problems/tree/master/0020-valid-parentheses) |
 | [0071-simplify-path](https://github.com/treesajose-dev/Leetcode-problems/tree/master/0071-simplify-path) |
+| [0144-binary-tree-preorder-traversal](https://github.com/treesajose-dev/Leetcode-problems/tree/master/0144-binary-tree-preorder-traversal) |
 | [0155-min-stack](https://github.com/treesajose-dev/Leetcode-problems/tree/master/0155-min-stack) |
 | [0227-basic-calculator-ii](https://github.com/treesajose-dev/Leetcode-problems/tree/master/0227-basic-calculator-ii) |
 | [0232-implement-queue-using-stacks](https://github.com/treesajose-dev/Leetcode-problems/tree/master/0232-implement-queue-using-stacks) |
@@ -609,6 +610,7 @@ A collection of LeetCode questions to ace the coding interview!
 | ------- |
 | [0112-path-sum](https://github.com/treesajose-dev/Leetcode-problems/tree/master/0112-path-sum) |
 | [0113-path-sum-ii](https://github.com/treesajose-dev/Leetcode-problems/tree/master/0113-path-sum-ii) |
+| [0144-binary-tree-preorder-traversal](https://github.com/treesajose-dev/Leetcode-problems/tree/master/0144-binary-tree-preorder-traversal) |
 | [0207-course-schedule](https://github.com/treesajose-dev/Leetcode-problems/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/treesajose-dev/Leetcode-problems/tree/master/0210-course-schedule-ii) |
 | [1971-find-if-path-exists-in-graph](https://github.com/treesajose-dev/Leetcode-problems/tree/master/1971-find-if-path-exists-in-graph) |
@@ -677,11 +679,13 @@ A collection of LeetCode questions to ace the coding interview!
 | ------- |
 | [0112-path-sum](https://github.com/treesajose-dev/Leetcode-problems/tree/master/0112-path-sum) |
 | [0113-path-sum-ii](https://github.com/treesajose-dev/Leetcode-problems/tree/master/0113-path-sum-ii) |
+| [0144-binary-tree-preorder-traversal](https://github.com/treesajose-dev/Leetcode-problems/tree/master/0144-binary-tree-preorder-traversal) |
 ## Binary Tree
 |  |
 | ------- |
 | [0112-path-sum](https://github.com/treesajose-dev/Leetcode-problems/tree/master/0112-path-sum) |
 | [0113-path-sum-ii](https://github.com/treesajose-dev/Leetcode-problems/tree/master/0113-path-sum-ii) |
+| [0144-binary-tree-preorder-traversal](https://github.com/treesajose-dev/Leetcode-problems/tree/master/0144-binary-tree-preorder-traversal) |
 ## Backtracking
 |  |
 | ------- |
