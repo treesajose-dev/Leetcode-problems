@@ -45,6 +45,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0746-min-cost-climbing-stairs](https://github.com/treesajose-dev/Leetcode-problems/tree/master/0746-min-cost-climbing-stairs) |
 | [0819-most-common-word](https://github.com/treesajose-dev/Leetcode-problems/tree/master/0819-most-common-word) |
 | [0867-transpose-matrix](https://github.com/treesajose-dev/Leetcode-problems/tree/master/0867-transpose-matrix) |
+| [0961-n-repeated-element-in-size-2n-array](https://github.com/treesajose-dev/Leetcode-problems/tree/master/0961-n-repeated-element-in-size-2n-array) |
 | [0977-squares-of-a-sorted-array](https://github.com/treesajose-dev/Leetcode-problems/tree/master/0977-squares-of-a-sorted-array) |
 | [0997-find-the-town-judge](https://github.com/treesajose-dev/Leetcode-problems/tree/master/0997-find-the-town-judge) |
 | [1002-find-common-characters](https://github.com/treesajose-dev/Leetcode-problems/tree/master/1002-find-common-characters) |
@@ -143,6 +144,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0771-jewels-and-stones](https://github.com/treesajose-dev/Leetcode-problems/tree/master/0771-jewels-and-stones) |
 | [0819-most-common-word](https://github.com/treesajose-dev/Leetcode-problems/tree/master/0819-most-common-word) |
 | [0884-uncommon-words-from-two-sentences](https://github.com/treesajose-dev/Leetcode-problems/tree/master/0884-uncommon-words-from-two-sentences) |
+| [0961-n-repeated-element-in-size-2n-array](https://github.com/treesajose-dev/Leetcode-problems/tree/master/0961-n-repeated-element-in-size-2n-array) |
 | [0997-find-the-town-judge](https://github.com/treesajose-dev/Leetcode-problems/tree/master/0997-find-the-town-judge) |
 | [1002-find-common-characters](https://github.com/treesajose-dev/Leetcode-problems/tree/master/1002-find-common-characters) |
 | [1122-relative-sort-array](https://github.com/treesajose-dev/Leetcode-problems/tree/master/1122-relative-sort-array) |
@@ -694,6 +696,7 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0287-find-the-duplicate-number](https://github.com/treesajose-dev/Leetcode-problems/tree/master/0287-find-the-duplicate-number) |
+| [0961-n-repeated-element-in-size-2n-array](https://github.com/treesajose-dev/Leetcode-problems/tree/master/0961-n-repeated-element-in-size-2n-array) |
 ## Floyd's Cycle Finding Algorithm
 |  |
 | ------- |
