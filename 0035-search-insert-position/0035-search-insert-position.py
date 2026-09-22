@@ -5,7 +5,7 @@ class Solution(object):
         :type target: int
         :rtype: int
         """
-        
+               
         left, right = 0, len(nums) - 1
         
         while left <= right:
@@ -19,3 +19,4 @@ class Solution(object):
                 right = mid - 1
         
         return left
+        
