@@ -296,6 +296,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [1446-consecutive-characters](https://github.com/treesajose-dev/Leetcode-problems/tree/master/1446-consecutive-characters) |
 | [1528-shuffle-string](https://github.com/treesajose-dev/Leetcode-problems/tree/master/1528-shuffle-string) |
 | [1544-make-the-string-great](https://github.com/treesajose-dev/Leetcode-problems/tree/master/1544-make-the-string-great) |
+| [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/treesajose-dev/Leetcode-problems/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 | [1662-check-if-two-string-arrays-are-equivalent](https://github.com/treesajose-dev/Leetcode-problems/tree/master/1662-check-if-two-string-arrays-are-equivalent) |
 | [1668-maximum-repeating-substring](https://github.com/treesajose-dev/Leetcode-problems/tree/master/1668-maximum-repeating-substring) |
 | [1678-goal-parser-interpretation](https://github.com/treesajose-dev/Leetcode-problems/tree/master/1678-goal-parser-interpretation) |
@@ -519,6 +520,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/treesajose-dev/Leetcode-problems/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 | [1475-final-prices-with-a-special-discount-in-a-shop](https://github.com/treesajose-dev/Leetcode-problems/tree/master/1475-final-prices-with-a-special-discount-in-a-shop) |
 | [1544-make-the-string-great](https://github.com/treesajose-dev/Leetcode-problems/tree/master/1544-make-the-string-great) |
+| [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/treesajose-dev/Leetcode-problems/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 | [2000-reverse-prefix-of-word](https://github.com/treesajose-dev/Leetcode-problems/tree/master/2000-reverse-prefix-of-word) |
 | [2696-minimum-string-length-after-removing-substrings](https://github.com/treesajose-dev/Leetcode-problems/tree/master/2696-minimum-string-length-after-removing-substrings) |
 | [3174-clear-digits](https://github.com/treesajose-dev/Leetcode-problems/tree/master/3174-clear-digits) |
@@ -778,4 +780,5 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/treesajose-dev/Leetcode-problems/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
+| [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/treesajose-dev/Leetcode-problems/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 <!---LeetCode Topics End-->
